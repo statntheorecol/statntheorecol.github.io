@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on Integrative and Theoretical Ecology Group</title>
+    <link>https://itecologyresearch.github.io/</link>
+    <description>Recent content in Welcome! on Integrative and Theoretical Ecology Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Under progress...</copyright>
+    <lastBuildDate>Wed, 13 Feb 2019 10:53:33 +0100</lastBuildDate>
+    
+	<atom:link href="https://itecologyresearch.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Join Us</title>
+      <link>https://itecologyresearch.github.io/posts/join-us/</link>
+      <pubDate>Fri, 15 Feb 2019 16:30:25 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/join-us/</guid>
+      <description>Come to the green side. We have cookies.
+No, really. We do.</description>
+    </item>
+    
+    <item>
+      <title>Christelle Aluome</title>
+      <link>https://itecologyresearch.github.io/members/christelle-aluome/</link>
+      <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/members/christelle-aluome/</guid>
+      <description>I am a bio-informatics engineer with a particular expertise in data mining and database development.
+Generally speaking, I am interested in everything linked with data mining: management, exploitation and analysis (especially for big volumes of data). I used to work in vegetable genomics, in diverse projects related to data mining, which includes database design (associated with the development of a website), analysis of sequences from NGS techniques (Populus nigra, Pisum sativum), the development of procedure for genome reconstruction (de novo assembly) in the case of small computing resources, and the development of protocols for the selection of SNP which can be applied to genotyping chip.</description>
+    </item>
+    
+    <item>
+      <title>Frédéric Barraquand</title>
+      <link>https://itecologyresearch.github.io/members/frederic-barraquand/</link>
+      <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/members/frederic-barraquand/</guid>
+      <description>I am a quantitative ecologist, with interests ranging from population dynamics or coexistence theory to the statistical analysis of time series.
+Most of my research deals with ecological interactions in a dynamic setting (and sometimes a spatially explicit one). Some more details in my personal webpage.
+Current projects include time series methods to infer causal relationships, understanding cyclic dynamics in insect pests, and what drives phytoplankton community dynamics.
+&amp;nbsp; &amp;nbsp; &amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://itecologyresearch.github.io/members/</link>
+      <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/members/</guid>
+      <description> Christelle Aluome | Engineer Frédéric Barraquand | Researcher Laure Carassou | Researcher Coralie Picoche | Engineer Yohan Sahraoui | Post-doc Alix Sauve | Post-doc </description>
+    </item>
+    
+    <item>
+      <title>Research Themes</title>
+      <link>https://itecologyresearch.github.io/research/</link>
+      <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/research/</guid>
+      <description>Ecological interactions and dynamics of ecosystems
+Species interactions, such as predation, competition or mutualism, play a fundamental role in the structuring and dynamics of animal and plant communities. They can strongly affect fluctuations in population size, species relative abundance and ecosystem functioning. Key ecological phenomena, such as pest outbreaks, biodiversity maintenance, trophic cascades are thought to be directly related to ecological interactions. One of our objectives is to measure and predict the effect of those interactions on the dynamics of co-occurring species.</description>
+    </item>
+    
+    <item>
+      <title>Ongoing projects</title>
+      <link>https://itecologyresearch.github.io/projects/</link>
+      <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/projects/</guid>
+      <description> BiodiverCité EPIZHONE Phytoplankton dynamics </description>
+    </item>
+    
+    <item>
+      <title>Oops</title>
+      <link>https://itecologyresearch.github.io/blog/</link>
+      <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/blog/</guid>
+      <description>Sorry, blog is not available yet. The lab-elf is working on it.</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>https://itecologyresearch.github.io/publication/</link>
+      <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/publication/</guid>
+      <description>2019 Ballutaud M., Drouineau H., Carassou L., Munoz G., Chevillot X., Labadie P., Budzinski H., Lobry J. EStimating Contaminants tRansfers Over Complex food webs (ESCROC): An innovative Bayesian method for estimating POP&amp;rsquo;s biomagnification in aquatic food webs. Science of the Total Environment 2019, 658, 638-649.
+2018 Barraquand F. &amp;amp; Nielsen Ó.K. Predator‐prey feedback in a gyrfalcon‐ptarmigan system? Ecology &amp;amp; Evolution , DOI:10.1002/ece3.4563
+Barraquand F., Picoche C., Maurer D., Carassou L.</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://itecologyresearch.github.io/home/</link>
+      <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/home/</guid>
+      <description>We are broadly interested in community and landscape ecology, and use modelling tools to study ecosystems ranging from forests to the coastal ocean. Our &amp;ldquo;integrative&amp;rdquo; group is composed of two theoreticians interested in the complexities of real data, a fish community ecologist with a statistical bent, a geographer fond of graphs, a scientific programmer who knows her plankton and a database administrator to manage and analyze local data sets. Most of us are affiliated with the University of Bordeaux, within the frame of the Labex COTE, a multi-lab initiative to foster ecological research across ecosystems and disciplines.</description>
+    </item>
+    
+    <item>
+      <title>Back from SFEcologie 2018</title>
+      <link>https://itecologyresearch.github.io/posts/back-from-sfecologie-2018/</link>
+      <pubDate>Mon, 29 Oct 2018 09:45:53 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/back-from-sfecologie-2018/</guid>
+      <description>We just came back from SFEcologie 2018 &amp;ndash; a great conference in Rennes!
+Alix presented her latest work on seasonal dynamic food webs; Coralie had a poster on diversity maintenance in (also seasonal) theoretical competitive communities, and myself a presentation of our empirical analyses of phytoplankton community dynamics.
+I really enjoyed Teja Tscharnkte&amp;rsquo;s plenary on integrating biodiversity services in agriculture.
+ Teja Tscharntke explains why pollinator diversity is crucial to pollination at #sfe2018 pic.</description>
+    </item>
+    
+    <item>
+      <title>Spring 2018 news</title>
+      <link>https://itecologyresearch.github.io/posts/spring-2018-news/</link>
+      <pubDate>Tue, 19 Jun 2018 16:39:51 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/spring-2018-news/</guid>
+      <description>Some highlights from the last few months:
+April
+ Alix and Frederic were in Clermont-Ferrand at Irstea April 10-12 for the Temporal Network working group meeting of the GDR TheoMoDive. We enjoyed good team spirit and discovered a nice new brew (thanks Franck Jabot for organizing!).
+ Frederic gave a presentation in the Biostatistics seminar at ISPED / Bordeaux Population Health centre on the 23rd: “Inferring interactions between species using time series of population counts and multivariate autoregressive models”.</description>
+    </item>
+    
+    <item>
+      <title>BiodiverCité</title>
+      <link>https://itecologyresearch.github.io/projects/biodivercite/</link>
+      <pubDate>Wed, 09 May 2018 06:09:15 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/projects/biodivercite/</guid>
+      <description>The ‘BiodiverCité’ project aims at designing guidelines for the preservation of biodiversity in urban landscapes.
+The project has four major objectives :
+1) quantify biodiversity in the urban and suburban landscapes of the city of Bordeaux. This is done in a multi-taxa framework, using major groups of terrestrial and aquatic fauna, based on historical databases as well as new data collection (groups targeted include butterflies, damselflies, dragonflies, amphibians, fishes)
+2) identify conservation priority areas based on known biodiversity and landscape connectivity</description>
+    </item>
+    
+    <item>
+      <title>EPIZHONE</title>
+      <link>https://itecologyresearch.github.io/projects/epizhone/</link>
+      <pubDate>Fri, 21 Oct 2016 11:41:50 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/projects/epizhone/</guid>
+      <description>Study zone (Water Streams © BD Cartage ; Wetlands © Adour-Garonne Water Agency ; Superficial water masses © SDAGE) 
+In collaboration with Gretha, EPOC and IRSTEA research teams, we aim to characterize the wetland biodiversity of the area of Les Jalles-Blanquefort on the Gironde estuary. We partner with local observatories regarding biological data sets, in an attempt to gather information on both flora and fauna in the area.</description>
+    </item>
+    
+    <item>
+      <title>Phytoplankton dynamics</title>
+      <link>https://itecologyresearch.github.io/projects/phytoplankton-dynamics/</link>
+      <pubDate>Fri, 21 Oct 2016 11:41:47 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/projects/phytoplankton-dynamics/</guid>
+      <description>In collaboration with Ifremer Arcachon, we work on phytoplankton community dynamics, especially diatoms (one of the most abundant classes of plankton, actively involved in biogeochemical cycles).
+We are particularly interested in:
+ Drivers of blooms Coexistence mechanisms  Our research combines long-term data with statistical and theoretical models.
+Our analyses of the time series in Arcachon Bay can be found in Barraquand et al. 2018, Oikos.
+ Example of the dynamics of one of the most abundant genera at different spots in Arcachon Bay</description>
+    </item>
+    
+    <item>
+      <title>Coralie Picoche</title>
+      <link>https://itecologyresearch.github.io/members/coralie-picoche/</link>
+      <pubDate>Fri, 21 Oct 2016 11:41:44 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/members/coralie-picoche/</guid>
+      <description>I am an ecology modeler working at the interface between biological studies and programming. I focus on mathematical and computer tools to formalize ecological concepts or challenge theoretical models by confronting them to data. My training and, beyond that, my interest are therefore more focused on techniques and problem-solving than on specific ecosystem matters .
+This reflects in my background: I have worked on several subjects (shellfish aquaculture, fishery management, plankton community) at different scales (individual-based to end-to-end models), in different places (from South Africa to Berkeley).</description>
+    </item>
+    
+    <item>
+      <title>Yohan Sahraoui</title>
+      <link>https://itecologyresearch.github.io/members/yohan-sahraoui/</link>
+      <pubDate>Fri, 21 Oct 2016 11:41:36 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/members/yohan-sahraoui/</guid>
+      <description>Publications:
+Sahraoui Y., Vuidel G., Joly D., Foltête J-C., 2018. Integrated GIS software for computing landscape visibility metrics, Transactions in GIS, 1-14.
+Teichert N., Carassou L., Sahraoui Y., Lobry J., Lepage M., 2018. Influence of intertidal seascape on the functional structure of fish assemblages: implication for habitat conservation in estuarine ecosystems, Aquatic Conservation : Marine and Freshwater Ecosystems, 1-12
+Sahraoui Y., Foltête J-C., Clauzel C., 2017. A multi-species approach for assessing the impact of land-cover changes on landscape connectivity, Landscape Ecology, 32(9) : 1819-1835.</description>
+    </item>
+    
+    <item>
+      <title>Alix Sauve</title>
+      <link>https://itecologyresearch.github.io/members/alix-sauve/</link>
+      <pubDate>Fri, 21 Oct 2016 11:41:33 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/members/alix-sauve/</guid>
+      <description>As a theoretical ecologist, I am keen on investigating the structure of ecological communities as well as their dynamics, so as to understand how they respond to disturbances. I study ecological communities as networks of interactions, trying to capture the architecture of such webs, their variabilities and their dynamics.
+Modeling of community dynamics (numerical simulations and analytical approach), ecological network analysis, and null models are key in my toolbox.
+Ecological networks with multiple interaction types</description>
+    </item>
+    
+    <item>
+      <title>Laure Carassou</title>
+      <link>https://itecologyresearch.github.io/members/laure-carassou/</link>
+      <pubDate>Fri, 21 Oct 2016 11:41:26 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/members/laure-carassou/</guid>
+      <description>My main research interest is aquatic ecology, mainly fish assemblage dynamics. I have been studying fish in a variety of ecosystems (estuaries, coral reefs or other coastal and pelagic marine environments from Europe, south Pacific, northern Gulf of Mexico, west and south Africa, northwest Indian Ocean). I combine diverse methodological approaches to provide a comprehensive understanding of the dynamics of fish populations in the context of climatic and environmental variability (trophic studies based on gut contents, stable isotopes, fatty acids, and/or multivariate statistical approaches).</description>
+    </item>
+    
+  </channel>
+</rss>

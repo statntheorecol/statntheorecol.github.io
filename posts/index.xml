@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Integrative and Theoretical Ecology Group</title>
+    <link>https://itecologyresearch.github.io/posts/</link>
+    <description>Recent content in Posts on Integrative and Theoretical Ecology Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Under progress...</copyright>
+    <lastBuildDate>Fri, 15 Feb 2019 16:30:25 +0100</lastBuildDate>
+    
+	<atom:link href="https://itecologyresearch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Join Us</title>
+      <link>https://itecologyresearch.github.io/posts/join-us/</link>
+      <pubDate>Fri, 15 Feb 2019 16:30:25 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/join-us/</guid>
+      <description>Come to the green side. We have cookies.
+No, really. We do.</description>
+    </item>
+    
+    <item>
+      <title>Back from SFEcologie 2018</title>
+      <link>https://itecologyresearch.github.io/posts/back-from-sfecologie-2018/</link>
+      <pubDate>Mon, 29 Oct 2018 09:45:53 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/back-from-sfecologie-2018/</guid>
+      <description>We just came back from SFEcologie 2018 &amp;ndash; a great conference in Rennes!
+Alix presented her latest work on seasonal dynamic food webs; Coralie had a poster on diversity maintenance in (also seasonal) theoretical competitive communities, and myself a presentation of our empirical analyses of phytoplankton community dynamics.
+I really enjoyed Teja Tscharnkte&amp;rsquo;s plenary on integrating biodiversity services in agriculture.
+ Teja Tscharntke explains why pollinator diversity is crucial to pollination at #sfe2018 pic.</description>
+    </item>
+    
+    <item>
+      <title>Spring 2018 news</title>
+      <link>https://itecologyresearch.github.io/posts/spring-2018-news/</link>
+      <pubDate>Tue, 19 Jun 2018 16:39:51 +0000</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/spring-2018-news/</guid>
+      <description>Some highlights from the last few months:
+April
+ Alix and Frederic were in Clermont-Ferrand at Irstea April 10-12 for the Temporal Network working group meeting of the GDR TheoMoDive. We enjoyed good team spirit and discovered a nice new brew (thanks Franck Jabot for organizing!).
+ Frederic gave a presentation in the Biostatistics seminar at ISPED / Bordeaux Population Health centre on the 23rd: “Inferring interactions between species using time series of population counts and multivariate autoregressive models”.</description>
+    </item>
+    
+  </channel>
+</rss>
