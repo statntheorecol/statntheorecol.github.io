@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome! on Integrative and Theoretical Ecology Group</title>
+    <title>Integrative and Theoretical Ecology Group</title>
     <link>https://itecologyresearch.github.io/</link>
-    <description>Recent content in Welcome! on Integrative and Theoretical Ecology Group</description>
+    <description>Recent content on Integrative and Theoretical Ecology Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Feb 2019 10:53:33 +0100</lastBuildDate>
@@ -86,12 +86,12 @@ Species interactions, such as predation, competition or mutualism, play a fundam
     </item>
     
     <item>
-      <title>Ongoing projects</title>
-      <link>https://itecologyresearch.github.io/projects/</link>
+      <title></title>
+      <link>https://itecologyresearch.github.io/home/</link>
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
       
-      <guid>https://itecologyresearch.github.io/projects/</guid>
-      <description> ANTOPTIC BiodiverCité EPIZHONE Phytoplankton dynamics </description>
+      <guid>https://itecologyresearch.github.io/home/</guid>
+      <description>Our group focuses on population, community and landscape ecology (sometimes blended with other disciplines). We use modelling tools - both statistics and theoretical models - to study ecosystems ranging from forests to the coastal ocean. Most of us are/were affiliated with the University of Bordeaux, within the frame of the Labex COTE, a multi-lab initiative to foster ecological research across ecosystems and disciplines. The ITE group is co-headed by Laure Carassou (INRAE) and Frederic Barraquand (CNRS).</description>
     </item>
     
     <item>
@@ -104,6 +104,15 @@ Species interactions, such as predation, competition or mutualism, play a fundam
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>https://itecologyresearch.github.io/projects/</link>
+      <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/projects/</guid>
+      <description> Phytoplankton dynamics BiodiverCité ANTOPTIC </description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://itecologyresearch.github.io/publications/</link>
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
@@ -113,15 +122,6 @@ Species interactions, such as predation, competition or mutualism, play a fundam
 Barraquand F., Picoche C., Detto M., Hartig F. Inferring species interactions using Granger causality and convergent cross mapping.
 Picoche C., Barraquand F. Strong self-regulation and widespread facilitative interactions between genera of phytoplankton (under review).
 Barraquand F., Picoche C.</description>
-    </item>
-    
-    <item>
-      <title>Welcome!</title>
-      <link>https://itecologyresearch.github.io/home/</link>
-      <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
-      
-      <guid>https://itecologyresearch.github.io/home/</guid>
-      <description>We are broadly interested in community and landscape ecology, and use modelling tools to study ecosystems ranging from forests to the coastal ocean. Our &amp;ldquo;integrative&amp;rdquo; group is composed of two theoreticians interested in the complexities of real data, a fish community ecologist with a statistical bent, a geographer fond of graphs, a scientific programmer who knows her plankton and a database administrator to manage and analyze local data sets. Most of us are affiliated with the University of Bordeaux, within the frame of the Labex COTE, a multi-lab initiative to foster ecological research across ecosystems and disciplines.</description>
     </item>
     
     <item>
