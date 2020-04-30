@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Integrative and Theoretical Ecology Group</title>
+    <title>Welcome! on Integrative and Theoretical Ecology Group</title>
     <link>https://itecologyresearch.github.io/</link>
-    <description>Recent content on Integrative and Theoretical Ecology Group</description>
+    <description>Recent content in Welcome! on Integrative and Theoretical Ecology Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Feb 2019 10:53:33 +0100</lastBuildDate>
@@ -27,8 +27,7 @@
       <pubDate>Fri, 15 Feb 2019 16:30:25 +0100</pubDate>
       
       <guid>https://itecologyresearch.github.io/posts/join-us/</guid>
-      <description>We host internships for MSc. students (one per year so far) - contact us if interested to work with us, here are our research themes.
-Every year, Bordeaux&amp;rsquo;s Idex has a call for postdoctorate fellowships, these will allow to develop your own research project in collaboration with the group. There is also a visiting scholars programme.</description>
+      <description>Interested in an internship or postdoc?</description>
     </item>
     
     <item>
@@ -37,11 +36,10 @@ Every year, Bordeaux&amp;rsquo;s Idex has a call for postdoctorate fellowships, 
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
       
       <guid>https://itecologyresearch.github.io/projects/antoptic/</guid>
-      <description>Xysticus sp. preying on Lobesia botrana in the field
-© copyright : Sylvie Richart Cervera [INRAE]  
-The ANTOPTIC (Analysis of trophic network to optimize the delivery of natural pest control services) project, led by SAVE and BioGeCo (INRA), aims to answer main two questions:
-1) What are the effects of farming practices and landscape context on the structure of arthropod food webs in vineyards?
-2) What is the relationship between the structure of arthopod food webs and the levels of pest control ?</description>
+      <description>The ANTOPTIC (Analysis of trophic network to optimize the delivery of natural pest control services) project, led by SAVE and BioGeCo (INRA), aims to answer main two questions:
+  What are the effects of farming practices and landscape context on the structure of arthropod food webs in vineyards?
+  What is the relationship between the structure of arthopod food webs and the levels of pest control ?
+  The project combines an experimental and a modeling approach.</description>
     </item>
     
     <item>
@@ -61,9 +59,9 @@ Generally speaking, I am interested in everything linked with data mining: manag
       
       <guid>https://itecologyresearch.github.io/members/frederic-barraquand/</guid>
       <description>I am a quantitative ecologist, with interests ranging from population dynamics or coexistence theory to the statistical analysis of time series.
-Most of my research deals with ecological interactions in a dynamic setting (and sometimes a spatially explicit one). Some more details in my personal webpage.
 Current projects include time series methods to infer causal relationships, understanding cyclic dynamics in insect pests, and what drives phytoplankton community dynamics.
-&amp;nbsp; &amp;nbsp; &amp;nbsp;</description>
+ Selected publications:
+Barraquand F., Louca S., Abbott K.C., Cobbold C., Cordoleani F., DeAngelis D., Elderd B.D., Fox J.W., Greenwood P., Hilker F.M., Lutscher F., Murray D., Stieha C.</description>
     </item>
     
     <item>
@@ -72,7 +70,7 @@ Current projects include time series methods to infer causal relationships, unde
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
       
       <guid>https://itecologyresearch.github.io/members/</guid>
-      <description> Christelle Aluome | Research assistant Frédéric Barraquand | Researcher Laure Carassou | Researcher Coralie Picoche | PhD student Yohan Sahraoui | Post-doc Alix Sauve | Post-doc </description>
+      <description>Christelle Aluome | Research assistant Frédéric Barraquand | Researcher Laure Carassou | Researcher Coralie Picoche | PhD student Yohan Sahraoui | Post-doc Alix Sauve | Post-doc </description>
     </item>
     
     <item>
@@ -109,7 +107,7 @@ Species interactions, such as predation, competition or mutualism, play a fundam
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
       
       <guid>https://itecologyresearch.github.io/projects/</guid>
-      <description> Phytoplankton dynamics BiodiverCité ANTOPTIC </description>
+      <description>Phytoplankton dynamics BiodiverCité ANTOPTIC </description>
     </item>
     
     <item>
@@ -118,10 +116,10 @@ Species interactions, such as predation, competition or mutualism, play a fundam
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
       
       <guid>https://itecologyresearch.github.io/publications/</guid>
-      <description>Preprints and submitted papers Sauve A. M. C., Barraquand F. From winter to summer and back: lessons from the parameterisation of a seasonal food web model for the Bialowieza forest. (under review).
-Barraquand F., Picoche C., Detto M., Hartig F. Inferring species interactions using Granger causality and convergent cross mapping.
+      <description>Preprints and submitted papers Barraquand F., Picoche C., Detto M., Hartig F. Inferring species interactions using Granger causality and convergent cross mapping.
 Picoche C., Barraquand F. Strong self-regulation and widespread facilitative interactions between genera of phytoplankton (under review).
-Barraquand F., Picoche C.</description>
+Barraquand F., Picoche C., Aluome C., Carassou L., Feigné Claude. Looking for compensation at multiple scales in a wetlandbird community (under review).
+Barraquand F., Gimenez O. Fitting stochastic predator-prey models using both population density and kill rate data.</description>
     </item>
     
     <item>
@@ -144,8 +142,8 @@ I really enjoyed Teja Tscharnkte&amp;rsquo;s plenary on integrating biodiversity
       <guid>https://itecologyresearch.github.io/posts/spring-2018-news/</guid>
       <description>Some highlights from the last few months:
 April
- Alix and Frederic were in Clermont-Ferrand at Irstea April 10-12 for the Temporal Network working group meeting of the GDR TheoMoDive. We enjoyed good team spirit and discovered a nice new brew (thanks Franck Jabot for organizing!).
- Frederic gave a presentation in the Biostatistics seminar at ISPED / Bordeaux Population Health centre on the 23rd: “Inferring interactions between species using time series of population counts and multivariate autoregressive models”.</description>
+  Alix and Frederic were in Clermont-Ferrand at Irstea April 10-12 for the Temporal Network working group meeting of the GDR TheoMoDive. We enjoyed good team spirit and discovered a nice new brew (thanks Franck Jabot for organizing!).
+  Frederic gave a presentation in the Biostatistics seminar at ISPED / Bordeaux Population Health centre on the 23rd: “Inferring interactions between species using time series of population counts and multivariate autoregressive models”.</description>
     </item>
     
     <item>
@@ -156,8 +154,7 @@ April
       <guid>https://itecologyresearch.github.io/projects/biodivercite/</guid>
       <description>The ‘BiodiverCité’ project aims at designing guidelines for the preservation of biodiversity in urban landscapes.
 The project has four major objectives :
-1) quantify biodiversity in the urban and suburban landscapes of the city of Bordeaux. This is done in a multi-taxa framework, using major groups of terrestrial and aquatic fauna, based on historical databases as well as new data collection (groups targeted include butterflies, damselflies, dragonflies, amphibians, fishes)
-2) identify conservation priority areas based on known biodiversity and landscape connectivity</description>
+  quantify biodiversity in the urban and suburban landscapes of the city of Bordeaux. This is done in a multi-taxa framework, using major groups of terrestrial and aquatic fauna, based on historical databases as well as new data collection (groups targeted include butterflies, damselflies, dragonflies, amphibians, fishes)</description>
     </item>
     
     <item>
@@ -166,8 +163,7 @@ The project has four major objectives :
       <pubDate>Fri, 21 Oct 2016 11:41:50 +0000</pubDate>
       
       <guid>https://itecologyresearch.github.io/projects/epizhone/</guid>
-      <description>Study zone (Water Streams © BD Cartage ; Wetlands © Adour-Garonne Water Agency ; Superficial water masses © SDAGE) 
-In collaboration with Gretha, EPOC and IRSTEA research teams, we aim to characterize the wetland biodiversity of the area of Les Jalles-Blanquefort on the Gironde estuary. We partner with local observatories regarding biological data sets, in an attempt to gather information on both flora and fauna in the area.</description>
+      <description>In collaboration with Gretha, EPOC and IRSTEA research teams, we aim to characterize the wetland biodiversity of the area of Les Jalles-Blanquefort on the Gironde estuary. We partner with local observatories regarding biological data sets, in an attempt to gather information on both flora and fauna in the area. This pilot study aims at gathering diverse disciplines towards a better characterization of wetland functional responses to anthropogenic pressures. The geographical and historical footprint of these pressures on the study wetlands are characterized by diverse approaches including geochemistry, geography, economics and social sciences.</description>
     </item>
     
     <item>
@@ -188,8 +184,7 @@ Our analyses of the time series in Arcachon Bay can be found in Barraquand et al
       <pubDate>Fri, 21 Oct 2016 11:41:44 +0000</pubDate>
       
       <guid>https://itecologyresearch.github.io/members/coralie-picoche/</guid>
-      <description>I am an ecology modeler working at the interface between biological studies and programming. I focus on mathematical and computer tools to formalize ecological concepts or challenge theoretical models by confronting them to data. My training and, beyond that, my interest are therefore more focused on techniques and problem-solving than on specific ecosystem matters .
-This reflects in my background: I have worked on several subjects (shellfish aquaculture, fishery management, plankton community) at different scales (individual-based to end-to-end models), in different places (from South Africa to Berkeley).</description>
+      <description>This reflects in my background: I have worked on several subjects (shellfish aquaculture, fishery management, plankton community) at different scales (individual-based to end-to-end models), in different places (from South Africa to Berkeley). A special taste for the marine environment has led me to apply a lot of different tools to this environment, but this has not kept me from working on completely theoretical models, or on bioenergy crops. Currently I use autoregressive models and other time series methods to study phytoplankton dynamics.</description>
     </item>
     
     <item>
@@ -198,8 +193,10 @@ This reflects in my background: I have worked on several subjects (shellfish aqu
       <pubDate>Fri, 21 Oct 2016 11:41:36 +0000</pubDate>
       
       <guid>https://itecologyresearch.github.io/members/yohan-sahraoui/</guid>
-      <description>I now work in the PRODIG lab, at the University of Paris Panthéon-Sorbonne.
-Link to his new page(s)  -- 
+      <description>\
+I now work in the PRODIG lab, at the University of Paris Panthéon-Sorbonne.
+
+\
 Publications:
 Sahraoui Y., Vuidel G., Joly D., Foltête J-C., 2018. Integrated GIS software for computing landscape visibility metrics, Transactions in GIS, 1-14.
 Teichert N., Carassou L., Sahraoui Y., Lobry J., Lepage M., 2018. Influence of intertidal seascape on the functional structure of fish assemblages: implication for habitat conservation in estuarine ecosystems, Aquatic Conservation : Marine and Freshwater Ecosystems, 1-12</description>
@@ -222,7 +219,10 @@ Ecological networks with multiple interaction types</description>
       <pubDate>Fri, 21 Oct 2016 11:41:26 +0000</pubDate>
       
       <guid>https://itecologyresearch.github.io/members/laure-carassou/</guid>
-      <description>My main research interest is aquatic ecology, mainly fish assemblage dynamics. I have been studying fish in a variety of ecosystems (estuaries, coral reefs or other coastal and pelagic marine environments from Europe, south Pacific, northern Gulf of Mexico, west and south Africa, northwest Indian Ocean). I combine diverse methodological approaches to provide a comprehensive understanding of the dynamics of fish populations in the context of climatic and environmental variability (trophic studies based on gut contents, stable isotopes, fatty acids, and/or multivariate statistical approaches).</description>
+      <description>You can find me on LinkedIn, ResearchGate and GoogleScholar.
+Selected publications:
+Carassou L, Whitfield AK, Bergamino L, Moyo S, Richoux NB. Trophic dynamics of the Cape stumpnose (Rhabdosargus lubi, Sparidae) across three adjacent aquatic habitats. Estuaries and Coasts. 2016, 93, 1212-1233.
+Magoro ML, Whitfield AK, Carassou L. Predation by alien largemouth bass, Micropterus salmoides Lacépede 1802 (Centrarchidae: Perciformes) on indigenous marine fish species in the Kowie system, South Africa. African Journal of Aquatic Sciences.</description>
     </item>
     
   </channel>
