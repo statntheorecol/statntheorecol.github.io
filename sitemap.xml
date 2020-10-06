@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://itecologyresearch.github.io/posts/news-2019/</loc>
-    <lastmod>2019-10-27T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://itecologyresearch.github.io/posts/</loc>
     <lastmod>2019-10-27T08:00:00+00:00</lastmod>
   </url>
   
@@ -38,13 +33,13 @@
   </url>
   
   <url>
-    <loc>https://itecologyresearch.github.io/pages/</loc>
+    <loc>https://itecologyresearch.github.io/research/</loc>
     <lastmod>2019-02-15T10:04:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://itecologyresearch.github.io/research/</loc>
-    <lastmod>2019-02-15T10:04:13+01:00</lastmod>
+    <loc>https://itecologyresearch.github.io/</loc>
+    <lastmod>2019-02-13T10:53:33+01:00</lastmod>
   </url>
   
   <url>
@@ -64,11 +59,6 @@
   
   <url>
     <loc>https://itecologyresearch.github.io/publications/</loc>
-    <lastmod>2019-02-13T10:53:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://itecologyresearch.github.io/</loc>
     <lastmod>2019-02-13T10:53:33+01:00</lastmod>
   </url>
   
@@ -119,10 +109,24 @@
   
   <url>
     <loc>https://itecologyresearch.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itecologyresearch.github.io/pages/</loc>
+    <lastmod>2019-02-15T10:04:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://itecologyresearch.github.io/posts/</loc>
+    <lastmod>2019-10-27T08:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://itecologyresearch.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
