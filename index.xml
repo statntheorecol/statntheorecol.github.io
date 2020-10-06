@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Integrative and Theoretical Ecology Group</title>
+    <title>Welcome! on Integrative and Theoretical Ecology Group</title>
     <link>https://itecologyresearch.github.io/</link>
-    <description>Recent content on Integrative and Theoretical Ecology Group</description>
+    <description>Recent content in Welcome! on Integrative and Theoretical Ecology Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Feb 2019 10:53:33 +0100</lastBuildDate>
@@ -72,7 +72,7 @@ Current projects include time series methods to infer causal relationships, unde
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
       
       <guid>https://itecologyresearch.github.io/members/</guid>
-      <description> Christelle Aluome | Research assistant Frédéric Barraquand | Researcher Laure Carassou | Researcher Coralie Picoche | PhD student Yohan Sahraoui | Post-doc Alix Sauve | Post-doc </description>
+      <description> Current members Christelle Aluome | Research assistant Frédéric Barraquand | Researcher Laure Carassou | Researcher Coralie Picoche | PhD student Past members Yohan Sahraoui | Post-doc Alix Sauve | Post-doc </description>
     </item>
     
     <item>
@@ -83,15 +83,6 @@ Current projects include time series methods to infer causal relationships, unde
       <guid>https://itecologyresearch.github.io/research/</guid>
       <description>Ecological interactions and dynamics of ecosystems
 Species interactions, such as predation, competition or mutualism, play a fundamental role in the structuring and dynamics of animal and plant communities. They can strongly affect fluctuations in population size, species relative abundance and ecosystem functioning. Key ecological phenomena, such as pest outbreaks, biodiversity maintenance, trophic cascades are thought to be directly related to ecological interactions. One of our objectives is to measure and predict the effect of those interactions on the dynamics of co-occurring species.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://itecologyresearch.github.io/home/</link>
-      <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
-      
-      <guid>https://itecologyresearch.github.io/home/</guid>
-      <description>Our group focuses on population, community and landscape ecology (sometimes blended with other disciplines). We use modelling tools - both statistics and theoretical models - to study ecosystems ranging from forests to the coastal ocean. Most of us are/were affiliated with the University of Bordeaux, within the frame of the Labex COTE, a multi-lab initiative to foster ecological research across ecosystems and disciplines. The ITE group is co-headed by Laure Carassou (INRAE) and Frederic Barraquand (CNRS).</description>
     </item>
     
     <item>
@@ -118,10 +109,18 @@ Species interactions, such as predation, competition or mutualism, play a fundam
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
       
       <guid>https://itecologyresearch.github.io/publications/</guid>
-      <description>Preprints and submitted papers Sauve A. M. C., Barraquand F. From winter to summer and back: lessons from the parameterisation of a seasonal food web model for the Bialowieza forest. (under review).
-Barraquand F., Picoche C., Detto M., Hartig F. Inferring species interactions using Granger causality and convergent cross mapping.
-Picoche C., Barraquand F. Strong self-regulation and widespread facilitative interactions between genera of phytoplankton (under review).
-Barraquand F., Picoche C.</description>
+      <description>Preprints and submitted papers Barraquand F., Picoche C., Aluome C., Carassou L., Feigné Claude. Looking for compensation at multiple scales in a wetlandbird community (under review).
+Barraquand F., Gimenez O. Fitting stochastic predator-prey models using both population density and kill rate data.
+Quéroué M., Barbraud C., Barraquand F., Turek D., Delord K., Pacoureau N., Gimenez O. Multispecies integrated population model reveals bottom-up dynamics in a seabird predator-prey system (under review)</description>
+    </item>
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://itecologyresearch.github.io/home/</link>
+      <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/home/</guid>
+      <description>Our group focuses on population, community and landscape ecology (sometimes blended with other disciplines). We use modelling tools - both statistics and theoretical models - to study ecosystems ranging from forests to the coastal ocean. Most of us are/were affiliated with the University of Bordeaux, within the frame of the Labex COTE, a multi-lab initiative to foster ecological research across ecosystems and disciplines. The ITE group is co-headed by Laure Carassou (INRAE) and Frederic Barraquand (CNRS).</description>
     </item>
     
     <item>
@@ -194,10 +193,10 @@ This reflects in my background: I have worked on several subjects (shellfish aqu
     
     <item>
       <title>Yohan Sahraoui</title>
-      <link>https://itecologyresearch.github.io/members/yohan-sahraoui/</link>
+      <link>https://itecologyresearch.github.io/members/past-members/yohan-sahraoui/</link>
       <pubDate>Fri, 21 Oct 2016 11:41:36 +0000</pubDate>
       
-      <guid>https://itecologyresearch.github.io/members/yohan-sahraoui/</guid>
+      <guid>https://itecologyresearch.github.io/members/past-members/yohan-sahraoui/</guid>
       <description>I now work in the PRODIG lab, at the University of Paris Panthéon-Sorbonne.
 Link to his new page(s)  -- 
 Publications:
@@ -207,10 +206,10 @@ Teichert N., Carassou L., Sahraoui Y., Lobry J., Lepage M., 2018. Influence of 
     
     <item>
       <title>Alix Sauve</title>
-      <link>https://itecologyresearch.github.io/members/alix-sauve/</link>
+      <link>https://itecologyresearch.github.io/members/past-members/alix-sauve/</link>
       <pubDate>Fri, 21 Oct 2016 11:41:33 +0000</pubDate>
       
-      <guid>https://itecologyresearch.github.io/members/alix-sauve/</guid>
+      <guid>https://itecologyresearch.github.io/members/past-members/alix-sauve/</guid>
       <description>As a community ecologist, I am keen on investigating the structure of ecological communities as well as their dynamics, so as to understand how they respond to disturbances. I study ecological communities as networks of interactions, trying to capture the architecture of such webs, their variabilities and their dynamics.
 Modeling of community dynamics (numerical simulations and analytical approach), ecological network analysis, and null models are key in my toolbox.
 Ecological networks with multiple interaction types</description>
