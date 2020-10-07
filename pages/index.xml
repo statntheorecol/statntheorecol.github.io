@@ -42,8 +42,8 @@ Generally speaking, I am interested in everything linked with data mining: manag
       <guid>https://itecologyresearch.github.io/members/frederic-barraquand/</guid>
       <description>I am a quantitative ecologist, with interests ranging from population dynamics or coexistence theory to the statistical analysis of time series.
 Most of my research deals with ecological interactions in a dynamic setting (and sometimes a spatially explicit one). Some more details in my personal webpage.
-Current projects include time series methods to infer causal relationships, understanding cyclic dynamics in insect pests, and what drives phytoplankton community dynamics.
-&amp;nbsp; &amp;nbsp; &amp;nbsp;</description>
+Current projects include, on the technical side:
+ multivariate time series methods to infer causal relationships data integration for complex models of interacting species identifiability properties of the abovementioned models  Some ecological questions that interest me:</description>
     </item>
     
     <item>
@@ -135,16 +135,6 @@ In collaboration with Gretha, EPOC and IRSTEA research teams, we aim to characte
 We are particularly interested in:
  Drivers of blooms Coexistence mechanisms  Our research combines long-term data with statistical and theoretical models.
 Our analyses of the time series in Arcachon Bay can be found in Barraquand et al. 2018, Oikos. This work has been extended to the French coastline in Picoche et al.</description>
-    </item>
-    
-    <item>
-      <title>Coralie Picoche</title>
-      <link>https://itecologyresearch.github.io/members/coralie-picoche-draft/</link>
-      <pubDate>Fri, 21 Oct 2016 11:41:44 +0000</pubDate>
-      
-      <guid>https://itecologyresearch.github.io/members/coralie-picoche-draft/</guid>
-      <description>I am an ecologist with a background in mathematics and informatics applied to biological systems. I used to work on species-specific as well as end-to-end models in applied contexts, mostly in aquatic environments for which I have developed a specific interest.
-For the last years, my research has focused on explaining the coexistence of multiple species competing for similar resources. I have sought confirmation of already known theoretical mechanisms from field data, and attempted to further theory by analysing the effect of observed processes in more theoretical frameworks.</description>
     </item>
     
     <item>
