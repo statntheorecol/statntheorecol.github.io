@@ -112,7 +112,7 @@ Generally speaking, I am interested in everything linked with data mining: manag
       <description>I am a quantitative ecologist, with interests ranging from population dynamics or coexistence theory to the statistical analysis of time series.
 Most of my research deals with ecological interactions in a dynamic setting (and sometimes a spatially explicit one). Some more details in my personal webpage.
 Current projects include, on the technical side:
- multivariate time series methods to infer causal relationships data integration for complex models of interacting species identifiability properties of the abovementioned models  Some ecological questions that interest me:</description>
+ multivariate time series methods to infer causal relationships data fusion techniques for mechanistic ecological models identifiability properties of such models  Some fundamental ecological questions that interest me:</description>
     </item>
     
     <item>
@@ -159,8 +159,9 @@ Species interactions, such as predation, competition or mutualism, play a fundam
       
       <guid>https://itecologyresearch.github.io/publications/</guid>
       <description>Preprints and submitted papers Picoche C., Young W.R., Barraquand F. [Re] Reproductive pair correlations and the clustering of organisms (under review)
-Archambeau J., Benito Garzón M., de Miguel Vega M., Brachi B., Barraquand F., González-Martínez S.C. Extreme climatic events but not environmental heterogeneity shape within-population genetic variation in maritime pine. (under review)
-Kleiven E.F., Barraquand F., Gimenez O., Henden J-A, Ims R.A., Soininen E.M., Yoccoz N.G. A dynamic occupancy model for interacting species with two spatial scales.</description>
+Kleiven E.F., Barraquand F., Gimenez O., Henden J-A, Ims R.A., Soininen E.M., Yoccoz N.G. A dynamic occupancy model for interacting species with two spatial scales. (under review)
+Bardon G., Barraquand F. Effects of stage structure on coexistence: mixed benefits. (in prep.)
+Archambeau J., Benito Garzón M., de Miguel Vega M.</description>
     </item>
     
     <item>
