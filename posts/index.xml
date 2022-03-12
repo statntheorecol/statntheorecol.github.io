@@ -6,10 +6,38 @@
     <description>Recent content in Posts on Integrative and Theoretical Ecology Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 19:19:54 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Mar 2022 16:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://itecologyresearch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 &amp; early 2022 news</title>
+      <link>https://itecologyresearch.github.io/posts/news-2021/</link>
+      <pubDate>Sat, 12 Mar 2022 16:00:00 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/news-2021/</guid>
+      <description>Some good news from the past and starting year:
+ Yohan Sahraoui, Laure Carassou and researchers from Biogeco have published the results of their investigation regarding ecological connectivity in the Bordeaux conurbation as a function of land use scenarios in Land Use Planning. They have coupled a spatial network modelling approach to a participatory (social sciences) modelling approach. They uncovered that the anticipated impacts on ecological connectivity of the urban sprawl trend are unfortunately quite similar to the worst scenarios for future urban development (!</description>
+    </item>
+    
+    <item>
+      <title>Estimating survival rates of Gyrfalcons in Iceland</title>
+      <link>https://itecologyresearch.github.io/posts/articlefaucon_eng/</link>
+      <pubDate>Sat, 12 Mar 2022 14:00:00 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/articlefaucon_eng/</guid>
+      <description>The annual probability of survival of the average adult individual is a critical parameter for demographic projections of long-lived animal populations. Indeed, small changes to this adult survival rate can yield large charges in the rate of population growth or decline. Yet this parameter was still unknown for the Gyrfalcon, an iconic raptor living in boreal and arctic ecosystems. In a recent PeerJ article, Ólafur K. Nielsen and I1 estimate adult as well as juvenile survival rates for the Icelandic population of gyrfalcons.</description>
+    </item>
+    
+    <item>
+      <title>Estimation des taux de survie des faucons gerfauts en Islande</title>
+      <link>https://itecologyresearch.github.io/posts/articlefaucon_fr/</link>
+      <pubDate>Sat, 12 Mar 2022 12:00:00 +0100</pubDate>
+      
+      <guid>https://itecologyresearch.github.io/posts/articlefaucon_fr/</guid>
+      <description>La probabilité annuelle de survie de l&amp;rsquo;individu adulte moyen est un paramètre critique pour les projections démographiques des populations animales longévives. En effet, de petits changements dans ce taux de survie des adultes peuvent entraîner de grandes variations dans le taux de croissance ou de déclin de la population. Pourtant, ce paramètre était encore inconnu pour le faucon gerfaut, un rapace charismatique qui vit dans les écosystèmes boréaux et arctiques. Dans un article récent paru dans PeerJ1, Ólafur K.</description>
+    </item>
     
     <item>
       <title>Postdoctoral position in statistical ecology</title>
