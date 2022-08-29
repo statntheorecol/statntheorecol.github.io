@@ -78,14 +78,14 @@ a:focus {
 
 /* Color for e.g. headers and links */
 .text-primary, a {
-    color: #558b2f;
+    color: #107ab0; /* #558b2f; */
 }
 
 /* Primary buttons are the ones in the page (not in the header) */
 .btn-primary {
     background-color: transparent;
     border-color: #7cb342;
-    color: #558b2f;
+    color: #107ab0; /* #558b2f; */
 }
 
 .btn-primary:focus,

@@ -1,83 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Integrative and Theoretical Ecology Group</title>
-    <link>https://itecologyresearch.github.io/posts/</link>
-    <description>Recent content in Posts on Integrative and Theoretical Ecology Group</description>
+    <title>Posts on Statistical and Theoretical Ecology Group</title>
+    <link>https://statntheorecol.github.io/posts/</link>
+    <description>Recent content in Posts on Statistical and Theoretical Ecology Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 May 2022 10:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 12 Mar 2022 16:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://itecologyresearch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://statntheorecol.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>A la recherche de la compensation chez les oiseaux des zones humides</title>
-      <link>https://itecologyresearch.github.io/posts/compensation_teich_fr/</link>
-      <pubDate>Tue, 10 May 2022 10:30:00 +0100</pubDate>
-      
-      <guid>https://itecologyresearch.github.io/posts/compensation_teich_fr/</guid>
-      <description>&amp;nbsp; &amp;nbsp;
- Réserve du Teich en hiver, Janvier 2021, Bassin d&amp;rsquo;Arcachon. Photo : Frédéric Barraquand  &amp;nbsp; &amp;nbsp;
-Il y a compensation entre les espèces lorsque, à mesure que l’effectif ou la biomasse d&amp;rsquo;une espèce augmente, l’effectif d&amp;rsquo;une ou plusieurs autres espèces diminue, de sorte que l&amp;rsquo;abondance ou la biomasse cumulée reste relativement stable. Cette propriété a des ramifications pour la relation entre biodiversité et fonctionnement des écosystèmes : si la diversité des espèces maintient une certaine stabilité de la biomasse au niveau de l&amp;rsquo;écosystème, nous nous attendons à ce qu&amp;rsquo;une telle compensation se produise.</description>
-    </item>
-    
-    <item>
-      <title>Looking for compensation at multiple scales in a wetland bird community</title>
-      <link>https://itecologyresearch.github.io/posts/compensation_teich_eng/</link>
-      <pubDate>Tue, 10 May 2022 10:00:00 +0100</pubDate>
-      
-      <guid>https://itecologyresearch.github.io/posts/compensation_teich_eng/</guid>
-      <description>&amp;nbsp; &amp;nbsp;
- Teich reserve in Winter, January 2021, Arcachon Bay. Photo : Frédéric Barraquand 
-&amp;nbsp; &amp;nbsp;
-Compensation between species occurs when as one species&amp;rsquo; abundance or biomass goes up, some other species&amp;rsquo; abundances go down so that the summed abundance or biomass at the community level stays relatively steady. This property is believed to have ramifications for how biodiversity affects ecosystem functioning: if species diversity is to maintain some stability of biomass at the ecosystem level, we expect such compensation to arise.</description>
-    </item>
     
     <item>
       <title>2021 &amp; early 2022 news</title>
-      <link>https://itecologyresearch.github.io/posts/news-2021/</link>
+      <link>https://statntheorecol.github.io/posts/news-2021/</link>
       <pubDate>Sat, 12 Mar 2022 16:00:00 +0100</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/news-2021/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2021/</guid>
       <description>Some good news from the past and starting year:
  Yohan Sahraoui, Laure Carassou and researchers from Biogeco have published in Land Use Planning the results of their investigations regarding how changes in land use in the Bordeaux conurbation will affect ecological connectivity. They have coupled a spatial network model of ecological connectivity to a participatory modelling approach from social sciences. By doing so, they uncovered that the anticipated impacts on ecological connectivity of urban sprawl and densification are unfortunately quite similar to the worst scenarios for future urban development (!</description>
     </item>
     
     <item>
       <title>Estimating survival rates of Gyrfalcons in Iceland</title>
-      <link>https://itecologyresearch.github.io/posts/articlefaucon_eng/</link>
+      <link>https://statntheorecol.github.io/posts/articlefaucon_eng/</link>
       <pubDate>Sat, 12 Mar 2022 14:00:00 +0100</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/articlefaucon_eng/</guid>
+      <guid>https://statntheorecol.github.io/posts/articlefaucon_eng/</guid>
       <description>The annual probability of survival of the average adult individual is a critical parameter for demographic projections of long-lived animal populations. Indeed, small changes to this adult survival rate can yield large changes in the rate of population growth or decline. Yet this parameter was still unknown for the Gyrfalcon, an iconic raptor living in boreal and arctic ecosystems. In a recent PeerJ article1, Ólafur K. Nielsen and I estimate adult as well as juvenile survival rates for the Icelandic population of gyrfalcons.</description>
     </item>
     
     <item>
       <title>Estimation des taux de survie des faucons gerfauts en Islande</title>
-      <link>https://itecologyresearch.github.io/posts/articlefaucon_fr/</link>
+      <link>https://statntheorecol.github.io/posts/articlefaucon_fr/</link>
       <pubDate>Sat, 12 Mar 2022 12:00:00 +0100</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/articlefaucon_fr/</guid>
+      <guid>https://statntheorecol.github.io/posts/articlefaucon_fr/</guid>
       <description>La probabilité annuelle de survie de l&amp;rsquo;individu adulte moyen est un paramètre critique pour les projections démographiques des populations animales longévives. En effet, de petits changements dans ce taux de survie des adultes peuvent entraîner de grandes variations dans le taux de croissance ou de déclin de la population. Pourtant, ce paramètre était encore inconnu pour le faucon gerfaut, un rapace charismatique qui vit dans les écosystèmes boréaux et arctiques. Dans un article récent paru dans PeerJ1, Ólafur K.</description>
     </item>
     
     <item>
       <title>Postdoctoral position in statistical ecology</title>
-      <link>https://itecologyresearch.github.io/posts/postdoc-statecol-2021/</link>
+      <link>https://statntheorecol.github.io/posts/postdoc-statecol-2021/</link>
       <pubDate>Tue, 02 Feb 2021 19:19:54 +0100</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/postdoc-statecol-2021/</guid>
+      <guid>https://statntheorecol.github.io/posts/postdoc-statecol-2021/</guid>
       <description>I have a new postdoc position opening (details in linked pdf) on improving dynamic models including interactions within and between species, notably their identifiability properties, by combining different kinds of data.
 I would be open to a variety of candidate profiles, ranging from somebody with statistical or probability background that would focus on mathematical aspects of identifiability, to somebody more interested in fitting dynamic models to data. Don&amp;rsquo;t hesitate to contact me for an informal chat if you may be interested.</description>
     </item>
     
     <item>
       <title>2020 News</title>
-      <link>https://itecologyresearch.github.io/posts/news-2020/</link>
+      <link>https://statntheorecol.github.io/posts/news-2020/</link>
       <pubDate>Wed, 07 Oct 2020 19:36:48 +0200</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/news-2020/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2020/</guid>
       <description>Well, this has been a difficult year for everybody and we certainly hope that the end of 2020 has less surprises to offer&amp;hellip; That said, amidst the covid-19 chaos, some pieces of good news:
  Alix started a new position at the French committee for the IUCN this spring. She&amp;rsquo;s working on the Ecosystem Red List. Congratulations Alix!
  Gaël Bardon, who studied with Frederic how stage/age structure can help foster coexistence for his MSc &amp;ldquo;Mathématiques du Vivant&amp;rdquo; (Polytechnique &amp;amp; AgroParisTech), has successfully defended his thesis.</description>
@@ -85,30 +62,30 @@ I would be open to a variety of candidate profiles, ranging from somebody with s
     
     <item>
       <title>2019 News</title>
-      <link>https://itecologyresearch.github.io/posts/news-2019/</link>
+      <link>https://statntheorecol.github.io/posts/news-2019/</link>
       <pubDate>Sun, 27 Oct 2019 08:00:00 +0000</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/news-2019/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2019/</guid>
       <description>After the holiday break, most of us have good news to share.
  Yohan just started his tenured lecturer position at University Paris I Sorbonne (UMR 8586 - Prodig). Congratulations Yohan! Coralie has officially started her PhD thesis in phytoplankton dynamics and coexistence in October. She also teaches modeling of dynamic systems and statistics for biology and bioinformatics. Alix extends a bit her current position with us until the end of 2019; she will work with us on the project BiodiverCité on urban pollinators.</description>
     </item>
     
     <item>
       <title>Opportunities</title>
-      <link>https://itecologyresearch.github.io/posts/join-us/</link>
+      <link>https://statntheorecol.github.io/posts/join-us/</link>
       <pubDate>Fri, 15 Feb 2019 16:30:25 +0100</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/join-us/</guid>
+      <guid>https://statntheorecol.github.io/posts/join-us/</guid>
       <description>We host internships for MSc. students (one per year so far) - contact us if interested to work with us, here are our research themes.
 Every year, Bordeaux&amp;rsquo;s Idex has a call for postdoctorate fellowships, these will allow to develop your own research project in collaboration with the group. There is also a visiting scholars programme.</description>
     </item>
     
     <item>
       <title>Back from SFEcologie 2018</title>
-      <link>https://itecologyresearch.github.io/posts/back-from-sfecologie-2018/</link>
+      <link>https://statntheorecol.github.io/posts/back-from-sfecologie-2018/</link>
       <pubDate>Mon, 29 Oct 2018 09:45:53 +0000</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/back-from-sfecologie-2018/</guid>
+      <guid>https://statntheorecol.github.io/posts/back-from-sfecologie-2018/</guid>
       <description>We just came back from SFEcologie 2018 &amp;ndash; a great conference in Rennes!
 Alix presented her latest work on seasonal dynamic food webs; Coralie had a poster on diversity maintenance in (also seasonal) theoretical competitive communities, and myself a presentation of our empirical analyses of phytoplankton community dynamics.
 I really enjoyed Teja Tscharnkte&amp;rsquo;s plenary on integrating biodiversity services in agriculture.
@@ -117,10 +94,10 @@ I really enjoyed Teja Tscharnkte&amp;rsquo;s plenary on integrating biodiversity
     
     <item>
       <title>Spring 2018 news</title>
-      <link>https://itecologyresearch.github.io/posts/spring-2018-news/</link>
+      <link>https://statntheorecol.github.io/posts/spring-2018-news/</link>
       <pubDate>Tue, 19 Jun 2018 16:39:51 +0000</pubDate>
       
-      <guid>https://itecologyresearch.github.io/posts/spring-2018-news/</guid>
+      <guid>https://statntheorecol.github.io/posts/spring-2018-news/</guid>
       <description>Some highlights from the last few months:
 April
  Alix and Frederic were in Clermont-Ferrand at Irstea April 10-12 for the Temporal Network working group meeting of the GDR TheoMoDive. We enjoyed good team spirit and discovered a nice new brew (thanks Franck Jabot for organizing!).
