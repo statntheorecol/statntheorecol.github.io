@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://statntheorecol.github.io/</loc>
-    <lastmod>2019-02-13T10:53:33+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://statntheorecol.github.io/blog/</loc>
     <lastmod>2019-02-13T10:53:33+01:00</lastmod>
   </url>
@@ -79,6 +74,11 @@
   
   <url>
     <loc>https://statntheorecol.github.io/publications/</loc>
+    <lastmod>2019-02-13T10:53:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://statntheorecol.github.io/</loc>
     <lastmod>2019-02-13T10:53:33+01:00</lastmod>
   </url>
   
