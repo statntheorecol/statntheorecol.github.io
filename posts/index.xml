@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Statistical and Theoretical Ecology Group</title>
@@ -6,10 +6,16 @@
     <description>Recent content in Posts on Statistical and Theoretical Ecology Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2022 16:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://statntheorecol.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 12 Oct 2023 16:00:00 +0100</lastBuildDate><atom:link href="https://statntheorecol.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 News</title>
+      <link>https://statntheorecol.github.io/posts/news-2023/</link>
+      <pubDate>Thu, 12 Oct 2023 16:00:00 +0100</pubDate>
+      
+      <guid>https://statntheorecol.github.io/posts/news-2023/</guid>
+      <description>Updates from the current year
+Matthieu Paquet has now been recruited by CNRS as a permanent researcher. Congrats Matthieu! Matthieu will be based for the foreseeable future in Moulis, Ariège, at the SETE. We&amp;rsquo;ve got a preprint out with Matthieu which checks whether multispecies Integrated Population Models can output false positives (answer: not unreasonably so) and the framework&amp;rsquo;s robustness to process stochasticity. Check it out, it is soon-to-be published at PCI/PeerCommunity Journal.</description>
+    </item>
     
     <item>
       <title>2022 News</title>
@@ -18,7 +24,7 @@
       
       <guid>https://statntheorecol.github.io/posts/news-2022/</guid>
       <description>What is new this year? In reverse chronological order, some milestones:
- Coralie Picoche brillantly defended her PhD thesis on the fine-scale modelling of phytoplankton communities on September 14. Congratulations Coralie! We are very grateful to the jury members (Frederik de Laender, Jon Pitchford, Christèle Etchegaray, Bart Haegeman, Bedr&amp;rsquo;Eddine Ainseba) for their thorough reading and thoughtful remarks. All articles from Coralie&amp;rsquo;s PhD are now out in some form. The first one was published in J Theor Biol earlier this year and the second at ReScience.</description>
+Coralie Picoche brillantly defended her PhD thesis on the fine-scale modelling of phytoplankton communities on September 14. Congratulations Coralie! We are very grateful to the jury members (Frederik de Laender, Jon Pitchford, Christèle Etchegaray, Bart Haegeman, Bedr&amp;rsquo;Eddine Ainseba) for their thorough reading and thoughtful remarks. All articles from Coralie&amp;rsquo;s PhD are now out in some form. The first one was published in J Theor Biol earlier this year and the second at ReScience.</description>
     </item>
     
     <item>
@@ -27,9 +33,7 @@
       <pubDate>Tue, 10 May 2022 10:30:00 +0100</pubDate>
       
       <guid>https://statntheorecol.github.io/posts/compensation_teich_fr/</guid>
-      <description>&amp;nbsp; &amp;nbsp;
- Réserve du Teich en hiver, Janvier 2021, Bassin d&amp;rsquo;Arcachon. Photo : Frédéric Barraquand  &amp;nbsp; &amp;nbsp;
-Il y a compensation entre les espèces lorsque, à mesure que l’effectif ou la biomasse d&amp;rsquo;une espèce augmente, l’effectif d&amp;rsquo;une ou plusieurs autres espèces diminue, de sorte que l&amp;rsquo;abondance ou la biomasse cumulée reste relativement stable. Cette propriété a des ramifications pour la relation entre biodiversité et fonctionnement des écosystèmes : si la diversité des espèces maintient une certaine stabilité de la biomasse au niveau de l&amp;rsquo;écosystème, nous nous attendons à ce qu&amp;rsquo;une telle compensation se produise.</description>
+      <description>Il y a compensation entre les espèces lorsque, à mesure que l’effectif ou la biomasse d&amp;rsquo;une espèce augmente, l’effectif d&amp;rsquo;une ou plusieurs autres espèces diminue, de sorte que l&amp;rsquo;abondance ou la biomasse cumulée reste relativement stable. Cette propriété a des ramifications pour la relation entre biodiversité et fonctionnement des écosystèmes : si la diversité des espèces maintient une certaine stabilité de la biomasse au niveau de l&amp;rsquo;écosystème, nous nous attendons à ce qu&amp;rsquo;une telle compensation se produise.</description>
     </item>
     
     <item>
@@ -38,10 +42,7 @@ Il y a compensation entre les espèces lorsque, à mesure que l’effectif ou la
       <pubDate>Tue, 10 May 2022 10:00:00 +0100</pubDate>
       
       <guid>https://statntheorecol.github.io/posts/compensation_teich_eng/</guid>
-      <description>&amp;nbsp; &amp;nbsp;
- Teich reserve in Winter, January 2021, Arcachon Bay. Photo : Frédéric Barraquand 
-&amp;nbsp; &amp;nbsp;
-Compensation between species occurs when as one species&amp;rsquo; abundance or biomass goes up, some other species&amp;rsquo; abundances go down so that the summed abundance or biomass at the community level stays relatively steady. This property is believed to have ramifications for how biodiversity affects ecosystem functioning: if species diversity is to maintain some stability of biomass at the ecosystem level, we expect such compensation to arise.</description>
+      <description>Compensation between species occurs when as one species&amp;rsquo; abundance or biomass goes up, some other species&amp;rsquo; abundances go down so that the summed abundance or biomass at the community level stays relatively steady. This property is believed to have ramifications for how biodiversity affects ecosystem functioning: if species diversity is to maintain some stability of biomass at the ecosystem level, we expect such compensation to arise. The opposite of compensation is synchrony, the most extreme form of which is all species fluctuating in unison.</description>
     </item>
     
     <item>
@@ -51,7 +52,7 @@ Compensation between species occurs when as one species&amp;rsquo; abundance or 
       
       <guid>https://statntheorecol.github.io/posts/news-2021/</guid>
       <description>Some good news from the past and starting year:
- Yohan Sahraoui, Laure Carassou and researchers from Biogeco have published in Land Use Planning the results of their investigations regarding how changes in land use in the Bordeaux conurbation will affect ecological connectivity. They have coupled a spatial network model of ecological connectivity to a participatory modelling approach from social sciences. By doing so, they uncovered that the anticipated impacts on ecological connectivity of urban sprawl and densification are unfortunately quite similar to the worst scenarios for future urban development (!</description>
+Yohan Sahraoui, Laure Carassou and researchers from Biogeco have published in Land Use Planning the results of their investigations regarding how changes in land use in the Bordeaux conurbation will affect ecological connectivity. They have coupled a spatial network model of ecological connectivity to a participatory modelling approach from social sciences. By doing so, they uncovered that the anticipated impacts on ecological connectivity of urban sprawl and densification are unfortunately quite similar to the worst scenarios for future urban development (!</description>
     </item>
     
     <item>
@@ -89,8 +90,8 @@ I would be open to a variety of candidate profiles, ranging from somebody with s
       
       <guid>https://statntheorecol.github.io/posts/news-2020/</guid>
       <description>Well, this has been a difficult year for everybody and we certainly hope that the end of 2020 has less surprises to offer&amp;hellip; That said, amidst the covid-19 chaos, some pieces of good news:
- Alix started a new position at the French committee for the IUCN this spring. She&amp;rsquo;s working on the Ecosystem Red List. Congratulations Alix!
- Gaël Bardon, who studied with Frederic how stage/age structure can help foster coexistence for his MSc &amp;ldquo;Mathématiques du Vivant&amp;rdquo; (Polytechnique &amp;amp; AgroParisTech), has successfully defended his thesis.</description>
+Alix started a new position at the French committee for the IUCN this spring. She&amp;rsquo;s working on the Ecosystem Red List. Congratulations Alix!
+Gaël Bardon, who studied with Frederic how stage/age structure can help foster coexistence for his MSc &amp;ldquo;Mathématiques du Vivant&amp;rdquo; (Polytechnique &amp;amp; AgroParisTech), has successfully defended his thesis.</description>
     </item>
     
     <item>
@@ -100,7 +101,7 @@ I would be open to a variety of candidate profiles, ranging from somebody with s
       
       <guid>https://statntheorecol.github.io/posts/news-2019/</guid>
       <description>After the holiday break, most of us have good news to share.
- Yohan just started his tenured lecturer position at University Paris I Sorbonne (UMR 8586 - Prodig). Congratulations Yohan! Coralie has officially started her PhD thesis in phytoplankton dynamics and coexistence in October. She also teaches modeling of dynamic systems and statistics for biology and bioinformatics. Alix extends a bit her current position with us until the end of 2019; she will work with us on the project BiodiverCité on urban pollinators.</description>
+Yohan just started his tenured lecturer position at University Paris I Sorbonne (UMR 8586 - Prodig). Congratulations Yohan! Coralie has officially started her PhD thesis in phytoplankton dynamics and coexistence in October. She also teaches modeling of dynamic systems and statistics for biology and bioinformatics. Alix extends a bit her current position with us until the end of 2019; she will work with us on the project BiodiverCité on urban pollinators.</description>
     </item>
     
     <item>
@@ -109,8 +110,7 @@ I would be open to a variety of candidate profiles, ranging from somebody with s
       <pubDate>Fri, 15 Feb 2019 16:30:25 +0100</pubDate>
       
       <guid>https://statntheorecol.github.io/posts/join-us/</guid>
-      <description>We host internships for MSc. students (one per year so far) - contact us if interested to work with us, here are our research themes.
-Every year, Bordeaux&amp;rsquo;s Idex has a call for postdoctorate fellowships, these will allow to develop your own research project in collaboration with the group. There is also a visiting scholars programme.</description>
+      <description>Interested in an internship or postdoc?</description>
     </item>
     
     <item>
@@ -122,7 +122,7 @@ Every year, Bordeaux&amp;rsquo;s Idex has a call for postdoctorate fellowships, 
       <description>We just came back from SFEcologie 2018 &amp;ndash; a great conference in Rennes!
 Alix presented her latest work on seasonal dynamic food webs; Coralie had a poster on diversity maintenance in (also seasonal) theoretical competitive communities, and myself a presentation of our empirical analyses of phytoplankton community dynamics.
 I really enjoyed Teja Tscharnkte&amp;rsquo;s plenary on integrating biodiversity services in agriculture.
- Teja Tscharntke explains why pollinator diversity is crucial to pollination at #sfe2018 pic.</description>
+Teja Tscharntke explains why pollinator diversity is crucial to pollination at #sfe2018 pic.</description>
     </item>
     
     <item>
@@ -133,8 +133,8 @@ I really enjoyed Teja Tscharnkte&amp;rsquo;s plenary on integrating biodiversity
       <guid>https://statntheorecol.github.io/posts/spring-2018-news/</guid>
       <description>Some highlights from the last few months:
 April
- Alix and Frederic were in Clermont-Ferrand at Irstea April 10-12 for the Temporal Network working group meeting of the GDR TheoMoDive. We enjoyed good team spirit and discovered a nice new brew (thanks Franck Jabot for organizing!).
- Frederic gave a presentation in the Biostatistics seminar at ISPED / Bordeaux Population Health centre on the 23rd: “Inferring interactions between species using time series of population counts and multivariate autoregressive models”.</description>
+Alix and Frederic were in Clermont-Ferrand at Irstea April 10-12 for the Temporal Network working group meeting of the GDR TheoMoDive. We enjoyed good team spirit and discovered a nice new brew (thanks Franck Jabot for organizing!).
+Frederic gave a presentation in the Biostatistics seminar at ISPED / Bordeaux Population Health centre on the 23rd: “Inferring interactions between species using time series of population counts and multivariate autoregressive models”.</description>
     </item>
     
   </channel>

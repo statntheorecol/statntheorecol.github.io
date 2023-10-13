@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head prefix="og: http://ogp.me/ns#">
+<head prefix="og: http://ogp.me/ns#"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
   <meta property="og:title" content=" Estimating survival rates of Gyrfalcons in Iceland &middot;  Statistical and Theoretical Ecology Group" />
@@ -16,9 +16,11 @@
   
 
   <title>
-     Estimating survival rates of Gyrfalcons in Iceland &middot;  Statistical and Theoretical Ecology Group
+   
+     Estimating survival rates of Gyrfalcons in Iceland | Statistical and Theoretical Ecology Group
+   
   </title>
-
+  
   <link rel="alternative stylesheet" href="https://statntheorecol.github.io/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://statntheorecol.github.io/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://statntheorecol.github.io/css/main.css" />
@@ -104,32 +106,24 @@ a critical parameter for demographic projections of long-lived animal
 populations. Indeed, small changes to this adult survival rate can yield
 large changes in the rate of population growth or decline. Yet this
 parameter was still unknown for the Gyrfalcon, an iconic raptor living
-in boreal and arctic ecosystems. In a recent <a href="https://peerj.com/articles/12404">PeerJ article</a><sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup>, Ólafur K. Nielsen and I estimate adult as well as
+in boreal and arctic ecosystems. In a recent <a href="https://peerj.com/articles/12404">PeerJ article</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, Ólafur K. Nielsen and I estimate adult as well as
 juvenile survival rates for the Icelandic population of gyrfalcons.</strong></p>
-
-<p>&nbsp; &nbsp;</p>
-
-<p><center>
-  <img src="../../images/DB_Gyr_ringed.jpg" width="550"  style="text-align:center" />
-  <figcaption>Territorial female near her nest, June 2020, Iceland. Photo © Daniel Bergmann</figcaption>
-</center></p>
-
-<p>&nbsp; &nbsp;</p>
-
+<p>   </p>
+<!-- raw HTML omitted -->
+<p>   </p>
 <p>The Gyrfalcon is the largest of all extant falcons, slightly larger and
 heavier than a buzzard. Gyrfalcons used to be exported in past centuries
 from Iceland to mainland Europe (and beyond) for use in the falconries
 of kings. For this reason, we have detailed information about long-term
 trends, and therefore know that the Icelandic gyrfalcon and its main
-prey (rock ptarmigan) both have oscillations in population size<sup class="footnote-ref" id="fnref:2"><a href="#fn:2">2</a></sup>.
+prey (rock ptarmigan) both have oscillations in population size<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.
 But surprisingly, basic components of ecological knowledge such as
 survival rates of this famous bird (now protected) were still lacking,
 not only in Iceland, but also all over the gyrfalcon&rsquo;s circumpolar
 population range.</p>
-
 <p>We estimate annual survival rates to be on average 83% [79%; 87%] for
-adults and 40% [34%; 45%] for juveniles<sup class="footnote-ref" id="fnref:3"><a href="#fn:3">3</a></sup>. A linear regression of
-annual survival rates in raptors with body mass<sup class="footnote-ref" id="fnref:4"><a href="#fn:4">4</a></sup> yields a predicted
+adults and 40% [34%; 45%] for juveniles<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>. A linear regression of
+annual survival rates in raptors with body mass<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> yields a predicted
 81% for adults: we therefore confirm that adult survival rates in
 long-lived birds are quite predictable. However, although the <em>average</em>
 adult survival rate is predictable, there is broad variability around
@@ -143,20 +137,19 @@ nor main prey (rock ptarmigan) density. We suspect that this is because
 these variables had to be spatially averaged, as we model the survival
 rates of the average individual while in fact juveniles do move around
 within Iceland (but we do not know their detailed locations).</p>
-
 <p>We used a multistage hidden Markov model combining
 capture-mark-recapture (from live individuals) and mark-recovery data
 (from dead individuals). Most capture-recapture models that estimate
 survival and detection probabilities for plant and animal species belong
-to hidden Markov models<sup class="footnote-ref" id="fnref:5"><a href="#fn:5">5</a></sup>. These models are called hidden because
+to hidden Markov models<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>. These models are called hidden because
 some states of the animals cannot be directly observed, only inferred.
 This particular model is called multistage because it uses three hidden
 states to combine information from encounters of observers with both
-live and dead individuals<sup class="footnote-ref" id="fnref:6"><a href="#fn:6">6</a></sup>. This “data fusion” technique helps to
+live and dead individuals<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>. This “data fusion” technique helps to
 get survival estimates when data is scarce. In the model, we define
 observed states <em>L</em>: seen or captured alive; <em>D</em>: recovered dead; <em>U</em>:
 neither seen, captured nor recovered, which leads to a time series of
-observed states such as LUUULUUDUUUUU for each individual in the dataset<sup class="footnote-ref" id="fnref:7"><a href="#fn:7">7</a></sup>.
+observed states such as LUUULUUDUUUUU for each individual in the dataset<sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup>.
 These observed states are then related through probabilities to
 the true states of an individual (1: alive; 2: recently dead; 3: long
 dead) - an individual may very well be alive but unobserved, or recently
@@ -166,7 +159,6 @@ corpses are probably long decomposed. A Markov chain then specifies
 transition probabilities between the true states, to which adult and
 juvenile annual survival survival probabilities belong to, eventually
 modelling the dynamics of survival for each individual bird.</p>
-
 <p>There are multiple ways to adjust these complex hierarchical models to
 data. One option is a full Bayesian analysis using a variant of the
 Gibbs sampler, where we would estimate directly the probabilities of
@@ -175,21 +167,19 @@ each latent state (i.e. the probability that individual 347 is alive in
 years, this option would be a bit cumbersome (more than 15000 parameters
 to estimate) and early trials revealed that such models did not converge
 very well. Another option is to fit the model through the classical
-maximum likelihood framework, using the Forward algorithm<sup class="footnote-ref" id="fnref:8"><a href="#fn:8">8</a></sup>, a
+maximum likelihood framework, using the Forward algorithm<sup id="fnref:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup>, a
 popular algorithm to fit hidden Markov models to data, which estimates
 Markov chain transition parameters without estimating each latent state.
 We used an in-between between those two options, using the Forward
-algorithm in a Bayesian framework in Stan<sup class="footnote-ref" id="fnref:9"><a href="#fn:9">9</a></sup>, a software implementing
-Hamiltonian Monte-Carlo<sup class="footnote-ref" id="fnref:10"><a href="#fn:10">10</a></sup><sup>,</sup><sup class="footnote-ref" id="fnref:11"><a href="#fn:11">11</a></sup>, which helped to provide reliable
+algorithm in a Bayesian framework in Stan<sup id="fnref:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup>, a software implementing
+Hamiltonian Monte-Carlo<sup id="fnref:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup><!-- raw HTML omitted -->,<!-- raw HTML omitted --><sup id="fnref:11"><a href="#fn:11" class="footnote-ref" role="doc-noteref">11</a></sup>, which helped to provide reliable
 credible intervals for parameter estimates.</p>
-
 <p>Ironically, the sad fact that there is substantial variation in realized
 lifespan of falcons - likely due to humans - helped us keep the model
 simple, since Markov models assume geometrically distributed lifespans
 (the geometric distribution has such broad variability). If all adults
 had died at roughly the same ages, we would have been constrained to use
-more complex semi-Markov models<sup class="footnote-ref" id="fnref:12"><a href="#fn:12">12</a></sup>.</p>
-
+more complex semi-Markov models<sup id="fnref:12"><a href="#fn:12" class="footnote-ref" role="doc-noteref">12</a></sup>.</p>
 <p>These analyses have resulted not only from the efforts of the
 researchers (one of whom did a large portion of the captures starting in
 1981) but also from the efforts of many others who were involved at
@@ -198,7 +188,6 @@ years, more and more “recaptures” have in fact been re-sightings of
 birds by volunteers through photography, a fact made possible by
 improvement in camera technology. These ornithologists cannot be thanked
 enough for their critical contribution to knowledge.</p>
-
 <p>This project is part of a long-term study started in 1981 in North-East
 Iceland where, in addition to the captures for survival estimation,
 gyrfalcons territories are mapped and fecundity at the nest is
@@ -206,39 +195,47 @@ evaluated. Our hope is then to combine the survival estimates produced
 here with the rest of the data into demographic models predicting the
 Icelandic gyrfalcon population’s trends, and its possible trophic
 linkages to its prey, the rock ptarmigan.</p>
-
 <p>&ndash; <a href="https://sites.google.com/site/fredbarraquand/home"><em>Frédéric Barraquand</em></a></p>
-
-<p><span id="anchor"></span><strong>References</strong></p>
-<div class="footnotes">
-
-<hr />
-
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --><strong>References</strong></p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
 <ol>
-<li id="fn:1"><a href="https://peerj.com/articles/12404"><em>Barraquand, F., &amp; Nielsen, Ó.K. (2021). Survival rates of adult and juvenile gyrfalcons in Iceland: estimates and drivers. PeerJ, 9, e12404.</em></a>
- <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
-<li id="fn:2"><a href="https://bioone.org/journals/Wildlife-Biology/volume-1/issue-1/wlb.1995.0011/Population-fluctuations-of-gyrfalcon-and-rock-ptarmigan--analysis-of/10.2981/wlb.1995.0011.full"><em>Nielsen, Ó. K., &amp; Pétursson, G. (1995). Population fluctuations of gyrfalcon and rock ptarmigan: analysis of export figures from Iceland. Wildlife Biology, 1(1), 65-71.</em></a>
- <a class="footnote-return" href="#fnref:2"><sup>[return]</sup></a></li>
-<li id="fn:3">95% Bayesian credible intervals, taken from the marginal posterior distributions.
- <a class="footnote-return" href="#fnref:3"><sup>[return]</sup></a></li>
-<li id="fn:4"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ibi.12355"><em>Newton, I., McGrady, M. J., &amp; Oli, M. K. (2016). A review of survival estimates for raptors and owls. Ibis, 158(2), 227-248.</em></a>
- <a class="footnote-return" href="#fnref:4"><sup>[return]</sup></a></li>
-<li id="fn:5"><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13610"><em>McClintock,B. T., Langrock, R., Gimenez, O., Cam, E., Borchers, D. L., Glennie, R., &amp; Patterson, T. A. (2020). Uncovering ecological state dynamics with hidden Markov models. Ecology letters, 23(12), 1878-1903.</em></a>
- <a class="footnote-return" href="#fnref:5"><sup>[return]</sup></a></li>
-<li id="fn:6"><a href="https://www.jstor.org/stable/2533993"><em>Catchpole, E. A., Freeman, S. N., Morgan, B. J., &amp; Harris, M. P. (1998). Integrated recovery/recapture data analysis. Biometrics, 33-46.</em></a>
- <a class="footnote-return" href="#fnref:6"><sup>[return]</sup></a></li>
-<li id="fn:7">We use here L, D, U for pedagogical purposes to differentiate them from hidden states 1, 2, 3 (since in both cases we have three states) but in practice we used numbers to code the observed states.
- <a class="footnote-return" href="#fnref:7"><sup>[return]</sup></a></li>
-<li id="fn:8">Zucchini, W., &amp; MacDonald, I. L. (2009). Hidden Markov models for time series: an introduction using R. Chapman and Hall/CRC.
- <a class="footnote-return" href="#fnref:8"><sup>[return]</sup></a></li>
-<li id="fn:9"><a href="https://mc-stan.org/"><em>https://mc-stan.org/</em></a>. Named after Polish-American mathematician Stanisław Ulam.
- <a class="footnote-return" href="#fnref:9"><sup>[return]</sup></a></li>
-<li id="fn:10"><a href="https://arxiv.org/abs/1111.4246"><em>Hoffman, M. D., &amp; Gelman, A. (2014). The No-U-Turn sampler: adaptively setting path lengths in Hamiltonian Monte Carlo. J. Mach. Learn. Res., 15(1), 1593-1623.</em></a>
- <a class="footnote-return" href="#fnref:10"><sup>[return]</sup></a></li>
-<li id="fn:11"><a href="https://arxiv.org/abs/1701.02434">Betancourt, M. (2017). A conceptual introduction to Hamiltonian Monte Carlo.</a>
- <a class="footnote-return" href="#fnref:11"><sup>[return]</sup></a></li>
-<li id="fn:12"><a href="https://arxiv.org/abs/1505.04827"><em>King, R., &amp; Langrock, R. (2016). Semi‐Markov Arnason–Schwarz models. Biometrics, 72(2), 619-628.</em></a>
- <a class="footnote-return" href="#fnref:12"><sup>[return]</sup></a></li>
+<li id="fn:1">
+<p><a href="https://peerj.com/articles/12404"><em>Barraquand, F., &amp; Nielsen, Ó.K. (2021). Survival rates of adult and juvenile gyrfalcons in Iceland: estimates and drivers. PeerJ, 9, e12404.</em></a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://bioone.org/journals/Wildlife-Biology/volume-1/issue-1/wlb.1995.0011/Population-fluctuations-of-gyrfalcon-and-rock-ptarmigan--analysis-of/10.2981/wlb.1995.0011.full"><em>Nielsen, Ó. K., &amp; Pétursson, G. (1995). Population fluctuations of gyrfalcon and rock ptarmigan: analysis of export figures from Iceland. Wildlife Biology, 1(1), 65-71.</em></a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>95% Bayesian credible intervals, taken from the marginal posterior distributions.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ibi.12355"><em>Newton, I., McGrady, M. J., &amp; Oli, M. K. (2016). A review of survival estimates for raptors and owls. Ibis, 158(2), 227-248.</em></a>&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13610"><em>McClintock,B. T., Langrock, R., Gimenez, O., Cam, E., Borchers, D. L., Glennie, R., &amp; Patterson, T. A. (2020). Uncovering ecological state dynamics with hidden Markov models. Ecology letters, 23(12), 1878-1903.</em></a>&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6">
+<p><a href="https://www.jstor.org/stable/2533993"><em>Catchpole, E. A., Freeman, S. N., Morgan, B. J., &amp; Harris, M. P. (1998). Integrated recovery/recapture data analysis. Biometrics, 33-46.</em></a>&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7">
+<p>We use here L, D, U for pedagogical purposes to differentiate them from hidden states 1, 2, 3 (since in both cases we have three states) but in practice we used numbers to code the observed states.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:8">
+<p>Zucchini, W., &amp; MacDonald, I. L. (2009). Hidden Markov models for time series: an introduction using R. Chapman and Hall/CRC.&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:9">
+<p><a href="https://mc-stan.org/"><em>https://mc-stan.org/</em></a>. Named after Polish-American mathematician Stanisław Ulam.&#160;<a href="#fnref:9" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:10">
+<p><a href="https://arxiv.org/abs/1111.4246"><em>Hoffman, M. D., &amp; Gelman, A. (2014). The No-U-Turn sampler: adaptively setting path lengths in Hamiltonian Monte Carlo. J. Mach. Learn. Res., 15(1), 1593-1623.</em></a>&#160;<a href="#fnref:10" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:11">
+<p><a href="https://arxiv.org/abs/1701.02434">Betancourt, M. (2017). A conceptual introduction to Hamiltonian Monte Carlo.</a>&#160;<a href="#fnref:11" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:12">
+<p><a href="https://arxiv.org/abs/1505.04827"><em>King, R., &amp; Langrock, R. (2016). Semi‐Markov Arnason–Schwarz models. Biometrics, 72(2), 619-628.</em></a>&#160;<a href="#fnref:12" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
 </ol>
 </div>
 
@@ -286,6 +283,6 @@ linkages to its prey, the rock ptarmigan.</p>
   
   
   
-<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
+</body>
 </html>
 
