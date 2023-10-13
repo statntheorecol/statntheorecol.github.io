@@ -13,10 +13,9 @@
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
       
       <guid>https://statntheorecol.github.io/projects/antoptic/</guid>
-      <description>The ANTOPTIC (Analysis of trophic network to optimize the delivery of natural pest control services) project, led by SAVE and BioGeCo (INRA), aims to answer main two questions:
+      <description>_Xysticus_ sp. preying on _Lobesia botrana_ in the field © copyright : Sylvie Richart Cervera [INRAE] The ANTOPTIC (Analysis of trophic network to optimize the delivery of natural pest control services) project, led by SAVE and BioGeCo (INRA), aims to answer main two questions:
 What are the effects of farming practices and landscape context on the structure of arthropod food webs in vineyards?
-What is the relationship between the structure of arthopod food webs and the levels of pest control ?
-The project combines an experimental and a modeling approach.</description>
+What is the relationship between the structure of arthopod food webs and the levels of pest control ?</description>
     </item>
     
     <item>
@@ -36,9 +35,8 @@ Generally speaking, I am interested in everything linked with data mining: manag
       
       <guid>https://statntheorecol.github.io/members/frederic-barraquand/</guid>
       <description>I am a quantitative ecologist, with interests ranging from population dynamics or coexistence theory to the statistical analysis of time series.
-Current projects include, on the technical side:
-multivariate time series methods to infer causal relationships data fusion techniques for mechanistic ecological models &amp;ndash; and increasingly, biodiversity monitoring identifiability properties of such models individual-based modelling using point processes Some fundamental ecological questions that interest me:
-What are the causes of cyclic population dynamics in rodents &amp;amp; insects?</description>
+Much of my research deals with ecological interactions in a dynamic setting (and sometimes a spatially explicit one). Current projects include, on the technical side:
+multivariate time series methods to infer causal relationships data fusion techniques for mechanistic ecological models &amp;ndash; and increasingly, biodiversity monitoring identifiability properties of such models individual-based modelling using point processes Some fundamental ecological questions that interest me:</description>
     </item>
     
     <item>
@@ -112,7 +110,7 @@ quantify biodiversity in the urban and suburban landscapes of the city of Bordea
       <pubDate>Fri, 21 Oct 2016 11:41:50 +0000</pubDate>
       
       <guid>https://statntheorecol.github.io/projects/epizhone/</guid>
-      <description>In collaboration with Gretha, EPOC and IRSTEA research teams, we aim to characterize the wetland biodiversity of the area of Les Jalles-Blanquefort on the Gironde estuary. We partner with local observatories regarding biological data sets, in an attempt to gather information on both flora and fauna in the area. This pilot study aims at gathering diverse disciplines towards a better characterization of wetland functional responses to anthropogenic pressures. The geographical and historical footprint of these pressures on the study wetlands are characterized by diverse approaches including geochemistry, geography, economics and social sciences.</description>
+      <description>Study zone (Water Streams © BD Cartage ; Wetlands © Adour-Garonne Water Agency ; Superficial water masses © SDAGE) In collaboration with Gretha, EPOC and IRSTEA research teams, we aim to characterize the wetland biodiversity of the area of Les Jalles-Blanquefort on the Gironde estuary. We partner with local observatories regarding biological data sets, in an attempt to gather information on both flora and fauna in the area. This pilot study aims at gathering diverse disciplines towards a better characterization of wetland functional responses to anthropogenic pressures.</description>
     </item>
     
     <item>
@@ -170,10 +168,7 @@ As a community ecologist, I am keen on investigating the structure of ecological
       <pubDate>Fri, 21 Oct 2016 11:41:26 +0000</pubDate>
       
       <guid>https://statntheorecol.github.io/members/laure-carassou/</guid>
-      <description>You can find me on LinkedIn, ResearchGate and GoogleScholar.
-Selected publications:
-Carassou L, Whitfield AK, Bergamino L, Moyo S, Richoux NB. Trophic dynamics of the Cape stumpnose (Rhabdosargus lubi, Sparidae) across three adjacent aquatic habitats. Estuaries and Coasts. 2016, 93, 1212-1233.
-Magoro ML, Whitfield AK, Carassou L. Predation by alien largemouth bass, Micropterus salmoides Lacépede 1802 (Centrarchidae: Perciformes) on indigenous marine fish species in the Kowie system, South Africa. African Journal of Aquatic Sciences.</description>
+      <description>My main research interest is aquatic ecology, mainly fish assemblage dynamics. I have been studying fish in a variety of ecosystems (estuaries, coral reefs or other coastal and pelagic marine environments from Europe, south Pacific, northern Gulf of Mexico, west and south Africa, northwest Indian Ocean). I combine diverse methodological approaches to provide a comprehensive understanding of the dynamics of fish populations in the context of climatic and environmental variability (trophic studies based on gut contents, stable isotopes, fatty acids, and/or multivariate statistical approaches).</description>
     </item>
     
     <item>
@@ -193,11 +188,8 @@ My PhD work was part of the long-term monitoring program Climate-ecological Obse
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://statntheorecol.github.io/members/matthieu-paquet/</guid>
-      <description>\
-I currently work with Frederic Barraquand on the identifiability of dynamic models including interactions within and between species (Integrated Community Models).
-\
-Selected publications:
-Paquet M., Knape J., Arlt D., Forslund P., Pärt T., Flagstad Ø., Jones C.G., Nicoll M.A.C., Norris K., Pemberton J.M., Sand H., Svensson L., Tatayah V., Wabakken P., Wikenros C., Åkesson M., Low M. Integrated population models poorly estimate the demographic contribution of immigration. Methods in Ecology and Evolution 2021, 12(10) : 1899-1910.</description>
+      <description>I am interested in behavioral ecology and population dynamics. I aim to better understand and predict population fluctuations by integrating information on interactions within (e.g. parental effects and social behaviour) as well as among species (e.g. competition and predation), notably using data integration (Integrated Population and Community Models).\
+I currently work with Frederic Barraquand on the identifiability of dynamic models including interactions within and between species (Integrated Community Models).</description>
     </item>
     
   </channel>
