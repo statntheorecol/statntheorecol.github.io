@@ -2,110 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://statntheorecol.github.io/posts/postdoc-statecol-2023/</loc>
+    <loc>http://localhost:1313/members/andre-luza/</loc>
+    <lastmod>2024-10-01T07:41:44+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/members/christie-le-coeur/</loc>
+    <lastmod>2024-10-01T07:41:44+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/members/julien-gibaud/</loc>
+    <lastmod>2024-10-01T07:41:44+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pages/</loc>
+    <lastmod>2024-10-01T07:41:44+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/news-2024/</loc>
+    <lastmod>2024-10-01T07:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-10-01T07:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/postdoc-statecol-2023/</loc>
     <lastmod>2023-10-19T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/</loc>
-    <lastmod>2023-10-19T16:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://statntheorecol.github.io/posts/news-2023/</loc>
+    <loc>http://localhost:1313/posts/news-2023/</loc>
     <lastmod>2023-10-12T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/news-2022/</loc>
+    <loc>http://localhost:1313/posts/news-2022/</loc>
     <lastmod>2022-11-01T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/compensation_teich_fr/</loc>
+    <loc>http://localhost:1313/posts/compensation_teich_fr/</loc>
     <lastmod>2022-05-10T10:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/compensation_teich_eng/</loc>
+    <loc>http://localhost:1313/posts/compensation_teich_eng/</loc>
     <lastmod>2022-05-10T10:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/news-2021/</loc>
+    <loc>http://localhost:1313/posts/news-2021/</loc>
     <lastmod>2022-03-12T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/articlefaucon_eng/</loc>
+    <loc>http://localhost:1313/posts/articlefaucon_eng/</loc>
     <lastmod>2022-03-12T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/articlefaucon_fr/</loc>
+    <loc>http://localhost:1313/posts/articlefaucon_fr/</loc>
     <lastmod>2022-03-12T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/postdoc-statecol-2021/</loc>
+    <loc>http://localhost:1313/members/matthieu-paquet/</loc>
+    <lastmod>2021-12-01T07:41:44+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/postdoc-statecol-2021/</loc>
     <lastmod>2021-02-02T19:19:54+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/news-2020/</loc>
+    <loc>http://localhost:1313/posts/news-2020/</loc>
     <lastmod>2020-10-07T19:36:48+02:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/news-2019/</loc>
+    <loc>http://localhost:1313/posts/news-2019/</loc>
     <lastmod>2019-10-27T08:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/join-us/</loc>
+    <loc>http://localhost:1313/members/eivind-kleiven/</loc>
+    <lastmod>2019-10-21T11:41:44+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/join-us/</loc>
     <lastmod>2019-02-15T16:30:25+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/projects/antoptic/</loc>
+    <loc>http://localhost:1313/projects/antoptic/</loc>
     <lastmod>2019-02-15T10:04:13+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/members/christelle-aluome/</loc>
+    <loc>http://localhost:1313/members/christelle-aluome/</loc>
     <lastmod>2019-02-15T10:04:13+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/members/frederic-barraquand/</loc>
+    <loc>http://localhost:1313/members/frederic-barraquand/</loc>
     <lastmod>2019-02-15T10:04:13+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/members/</loc>
+    <loc>http://localhost:1313/members/</loc>
     <lastmod>2019-02-15T10:04:13+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/pages/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <lastmod>2019-02-15T10:04:13+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/research/</loc>
-    <lastmod>2019-02-15T10:04:13+01:00</lastmod>
-  </url><url>
-    <loc>https://statntheorecol.github.io/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2019-02-13T10:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2019-02-13T10:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2019-02-13T10:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-02-13T10:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/back-from-sfecologie-2018/</loc>
+    <loc>http://localhost:1313/posts/back-from-sfecologie-2018/</loc>
     <lastmod>2018-10-29T09:45:53+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/posts/spring-2018-news/</loc>
+    <loc>http://localhost:1313/posts/spring-2018-news/</loc>
     <lastmod>2018-06-19T16:39:51+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/projects/biodivercite/</loc>
+    <loc>http://localhost:1313/projects/biodivercite/</loc>
     <lastmod>2018-05-09T06:09:15+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/projects/epizhone/</loc>
+    <loc>http://localhost:1313/projects/epizhone/</loc>
     <lastmod>2016-10-21T11:41:50+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/projects/phytoplankton-dynamics/</loc>
+    <loc>http://localhost:1313/projects/phytoplankton-dynamics/</loc>
     <lastmod>2016-10-21T11:41:47+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/members/coralie-picoche/</loc>
+    <loc>http://localhost:1313/members/coralie-picoche/</loc>
     <lastmod>2016-10-21T11:41:44+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/members/past-members/yohan-sahraoui/</loc>
+    <loc>http://localhost:1313/members/past-members/yohan-sahraoui/</loc>
     <lastmod>2016-10-21T11:41:36+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/members/past-members/alix-sauve/</loc>
+    <loc>http://localhost:1313/members/past-members/alix-sauve/</loc>
     <lastmod>2016-10-21T11:41:33+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/members/laure-carassou/</loc>
+    <loc>http://localhost:1313/members/laure-carassou/</loc>
     <lastmod>2016-10-21T11:41:26+00:00</lastmod>
   </url><url>
-    <loc>https://statntheorecol.github.io/members/andre-luza/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://statntheorecol.github.io/categories/</loc>
-  </url><url>
-    <loc>https://statntheorecol.github.io/members/eivind-kleiven/</loc>
-  </url><url>
-    <loc>https://statntheorecol.github.io/members/matthieu-paquet/</loc>
-  </url><url>
-    <loc>https://statntheorecol.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
