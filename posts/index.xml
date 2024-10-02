@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Statistical and Theoretical Ecology Group</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://statntheorecol.github.io/posts/</link>
     <description>Recent content in Posts on Statistical and Theoretical Ecology Group</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Oct 2024 07:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://statntheorecol.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 News</title>
-      <link>http://localhost:1313/posts/news-2024/</link>
+      <link>https://statntheorecol.github.io/posts/news-2024/</link>
       <pubDate>Tue, 01 Oct 2024 07:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/news-2024/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2024/</guid>
       <description>&lt;p&gt;Updates from the fall 2024&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Earlier this year, we finally published &lt;a href=&#34;https://statntheorecol.github.io/members/coralie-picoche/&#34;&gt;Coralie Picoche&lt;/a&gt;&amp;rsquo;s PhD work in &lt;a href=&#34;https://arxiv.org/abs/2210.11364&#34;&gt;Journal of Mathematical Biology&lt;/a&gt;. See &lt;a href=&#34;https://statntheorecol.github.io/posts/news-2022/&#34;&gt;here&lt;/a&gt; for a quick description.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/andre-luza/&#34;&gt;André Luis Luza&lt;/a&gt; joined last spring as a postdoctoral fellow in Biogeco (co-supervised with Didier Alard) to work on occupancy models to analyse heterogeneous biodiversity data, with an application to Southwest butterflies. We build on recent work on occupancy models with spatial and temporal random effects to foster parameter estimability.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Postdoctoral position(s)</title>
-      <link>http://localhost:1313/posts/postdoc-statecol-2023/</link>
+      <link>https://statntheorecol.github.io/posts/postdoc-statecol-2023/</link>
       <pubDate>Thu, 19 Oct 2023 16:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/postdoc-statecol-2023/</guid>
+      <guid>https://statntheorecol.github.io/posts/postdoc-statecol-2023/</guid>
       <description>Upcoming statistical/theoretical modelling opportunities</description>
     </item>
     <item>
       <title>2023 News</title>
-      <link>http://localhost:1313/posts/news-2023/</link>
+      <link>https://statntheorecol.github.io/posts/news-2023/</link>
       <pubDate>Thu, 12 Oct 2023 16:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/news-2023/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2023/</guid>
       <description>&lt;p&gt;Updates from the current year&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/matthieu-paquet/&#34;&gt;Matthieu Paquet&lt;/a&gt; has now been recruited by CNRS as a permanent researcher. Congrats Matthieu! He will be based for the foreseeable future in Moulis, Ariège, at the &lt;a href=&#34;https://sete-moulis-cnrs.fr/en/&#34;&gt;SETE&lt;/a&gt;. We&amp;rsquo;ve got a preprint out with Matthieu that evaluates how multispecies Integrated Population Models perform in absence &amp;ndash; in addition to presence &amp;ndash; of species interactions, and if the framework is robust to process stochasticity. It is soon-to-be published at &lt;a href=&#34;https://ecoevorxiv.org/repository/view/4836/&#34;&gt;PCI/PeerCommunity Journal&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>2022 News</title>
-      <link>http://localhost:1313/posts/news-2022/</link>
+      <link>https://statntheorecol.github.io/posts/news-2022/</link>
       <pubDate>Tue, 01 Nov 2022 16:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/news-2022/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2022/</guid>
       <description>&lt;p&gt;What is new this year? In reverse chronological order, some milestones:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/coralie-picoche/&#34;&gt;Coralie Picoche&lt;/a&gt; brillantly defended her PhD thesis on the fine-scale modelling of phytoplankton communities on September 14. Congratulations Coralie! We are very grateful to the jury members (Frederik de Laender, Jon Pitchford, Christèle Etchegaray, Bart Haegeman, Bedr&amp;rsquo;Eddine Ainseba) for their thorough reading and thoughtful remarks. All articles from Coralie&amp;rsquo;s PhD are now out in some form. The first one was &lt;a href=&#34;https://arxiv.org/abs/2103.11637&#34;&gt;published in J Theor Biol earlier this year&lt;/a&gt; and the second at &lt;a href=&#34;https://raw.githubusercontent.com/CoraliePicoche/brownian_bug_fluid/main/article/article.pdf&#34;&gt;ReScience&lt;/a&gt;. Third manuscript on the local spatial structure of phytoplankton communities and its implication for coexistence, in collaboration with Bill Young, &lt;a href=&#34;https://arxiv.org/abs/2210.11364&#34;&gt;at preprint stage on arXiv&lt;/a&gt;. It uses an individual-based model of spatial community dynamics (incl. diffusion) coupled with a model of turbulent advection of the fluid. Quite amazingly, we get closed-form solutions for indicators of spatial structure and neighborhood species composition, so simulations of the model can be compared to analytical predictions. Turns out that small phytoplankton probably lives in largely single-species neighborhoods (reducing interspecies competition) but large phytoplankton not so much.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A la recherche de la compensation chez les oiseaux des zones humides</title>
-      <link>http://localhost:1313/posts/compensation_teich_fr/</link>
+      <link>https://statntheorecol.github.io/posts/compensation_teich_fr/</link>
       <pubDate>Tue, 10 May 2022 10:30:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/compensation_teich_fr/</guid>
+      <guid>https://statntheorecol.github.io/posts/compensation_teich_fr/</guid>
       <description>&lt;p&gt;   &lt;/p&gt;&#xA;&lt;center&gt;&#xA;  &lt;img src=&#34;../../images/DSC02568.JPG&#34; width=&#34;1050&#34;  style=&#34;text-align:center&#34; /&gt;&#xA;  &lt;figcaption&gt;Réserve du Teich en hiver, Janvier 2021, Bassin d&#39;Arcachon. Photo : Frédéric Barraquand&lt;/figcaption&gt;&#xA;&lt;/center&gt;&#xA;&amp;nbsp; &amp;nbsp;&#xA;&lt;p&gt;&lt;strong&gt;Il y a compensation entre les espèces lorsque, à mesure que l’effectif ou la biomasse d&amp;rsquo;une espèce augmente, l’effectif d&amp;rsquo;une ou plusieurs autres espèces diminue, de sorte que l&amp;rsquo;abondance ou la biomasse cumulée reste relativement stable. Cette propriété a des ramifications pour la relation entre biodiversité et fonctionnement des écosystèmes : si la diversité des espèces maintient une certaine stabilité de la biomasse au niveau de l&amp;rsquo;écosystème, nous nous attendons à ce qu&amp;rsquo;une telle compensation se produise. L&amp;rsquo;opposé de la compensation est la synchronie, dont la forme la plus extrême est que toutes les espèces fluctuent à l&amp;rsquo;unisson. Dans un article récent d&amp;rsquo;Ecology &amp;amp; Evolution&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, nous nous demandons si la compensation ou la synchronie est présente dans les comptages d&amp;rsquo;oiseaux des zones humides, et ce à différentes échelles de temps, en utilisant une étude à long terme dans la réserve du Teich, sur le bassin d&amp;rsquo;Arcachon. Nous constatons que, bien que la synchronie domine, la compensation se produit surtout à de longues échelles temporelles et à de larges échelles fonctionnelles (entre groupes d’oiseaux bien distincts).&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Looking for compensation at multiple scales in a wetland bird community</title>
-      <link>http://localhost:1313/posts/compensation_teich_eng/</link>
+      <link>https://statntheorecol.github.io/posts/compensation_teich_eng/</link>
       <pubDate>Tue, 10 May 2022 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/compensation_teich_eng/</guid>
+      <guid>https://statntheorecol.github.io/posts/compensation_teich_eng/</guid>
       <description>&lt;p&gt;   &lt;/p&gt;&#xA;&lt;center&gt;&#xA;  &lt;img src=&#34;../../images/DSC02568.JPG&#34; width=&#34;1050&#34;  style=&#34;text-align:center&#34; /&gt;&#xA;  &lt;figcaption&gt;Teich reserve in Winter, January 2021, Arcachon Bay. Photo : Frédéric Barraquand&lt;/figcaption&gt;&#xA;&lt;/center&gt;&#xA;&lt;p&gt;   &lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Compensation between species occurs when as one species&amp;rsquo; abundance or biomass goes up, some other species&amp;rsquo; abundances go down so that the summed abundance or biomass at the community level stays relatively steady. This property is believed to have ramifications for how biodiversity affects ecosystem functioning: if species diversity is to maintain some stability of biomass at the ecosystem level, we expect such compensation to arise. The opposite of compensation is synchrony, the most extreme form of which is all species fluctuating in unison. In a recent Ecology &amp;amp; Evolution article&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, we ask whether compensation or synchrony is found in wetland bird counts, using a long-term survey at the Teich Reserve, Arcachon Bay. We find that although synchrony dominates, compensation occurs at long temporal scales and broad functional scales: compensation is found by “zooming out” temporally and functionally.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2021 &amp; early 2022 news</title>
-      <link>http://localhost:1313/posts/news-2021/</link>
+      <link>https://statntheorecol.github.io/posts/news-2021/</link>
       <pubDate>Sat, 12 Mar 2022 16:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/news-2021/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2021/</guid>
       <description>&lt;p&gt;Some good news from the past and starting year:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://thema.univ-fcomte.fr/page_personnelle/ysahraoui&#34;&gt;Yohan Sahraoui&lt;/a&gt;, Laure Carassou and researchers from &lt;a href=&#34;https://www6.bordeaux-aquitaine.inrae.fr/biogeco_eng/&#34;&gt;Biogeco&lt;/a&gt; have published in &lt;em&gt;Land Use Planning&lt;/em&gt;  the results of their investigations regarding &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0169204621000025&#34;&gt;how changes in land use in the Bordeaux conurbation will affect ecological connectivity.&lt;/a&gt; They have coupled a spatial network model of ecological connectivity to a participatory modelling approach from social sciences. By doing so, they uncovered that the anticipated impacts on ecological connectivity of urban sprawl and densification are unfortunately quite similar to the worst scenarios for future urban development (!) that their interdisciplinary team could come up with. &amp;ldquo;Utopian&amp;rdquo; scenarios that maintained the current level of ecological connectivity required radical changes. We&amp;rsquo;re hoping that the local city planners will take new steps to seriously mitigate biodiversity losses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Estimating survival rates of Gyrfalcons in Iceland</title>
-      <link>http://localhost:1313/posts/articlefaucon_eng/</link>
+      <link>https://statntheorecol.github.io/posts/articlefaucon_eng/</link>
       <pubDate>Sat, 12 Mar 2022 14:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/articlefaucon_eng/</guid>
+      <guid>https://statntheorecol.github.io/posts/articlefaucon_eng/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The annual probability of survival of the average adult individual is&#xA;a critical parameter for demographic projections of long-lived animal&#xA;populations. Indeed, small changes to this adult survival rate can yield&#xA;large changes in the rate of population growth or decline. Yet this&#xA;parameter was still unknown for the Gyrfalcon, an iconic raptor living&#xA;in boreal and arctic ecosystems. In a recent &lt;a href=&#34;https://peerj.com/articles/12404&#34;&gt;PeerJ article&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, Ólafur K. Nielsen and I estimate adult as well as&#xA;juvenile survival rates for the Icelandic population of gyrfalcons.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Estimation des taux de survie des faucons gerfauts en Islande</title>
-      <link>http://localhost:1313/posts/articlefaucon_fr/</link>
+      <link>https://statntheorecol.github.io/posts/articlefaucon_fr/</link>
       <pubDate>Sat, 12 Mar 2022 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/articlefaucon_fr/</guid>
+      <guid>https://statntheorecol.github.io/posts/articlefaucon_fr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;La probabilité annuelle de survie de l&amp;rsquo;individu adulte moyen est un&#xA;paramètre critique pour les projections démographiques des populations&#xA;animales longévives. En effet, de petits changements dans ce taux de&#xA;survie des adultes peuvent entraîner de grandes variations dans le taux&#xA;de croissance ou de déclin de la population. Pourtant, ce paramètre&#xA;était encore inconnu pour le faucon gerfaut, un rapace charismatique qui&#xA;vit dans les écosystèmes boréaux et arctiques. Dans un &lt;a href=&#34;https://peerj.com/articles/12404&#34;&gt;article récent&#xA;paru dans PeerJ&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, Ólafur K. Nielsen et moi-même estimons&#xA;les taux de survie des adultes ainsi que des juvéniles pour la population islandaise de faucons gerfauts.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Postdoctoral position in statistical ecology</title>
-      <link>http://localhost:1313/posts/postdoc-statecol-2021/</link>
+      <link>https://statntheorecol.github.io/posts/postdoc-statecol-2021/</link>
       <pubDate>Tue, 02 Feb 2021 19:19:54 +0100</pubDate>
-      <guid>http://localhost:1313/posts/postdoc-statecol-2021/</guid>
+      <guid>https://statntheorecol.github.io/posts/postdoc-statecol-2021/</guid>
       <description>&lt;p&gt;I have a new postdoc position opening &lt;a href=&#34;../../pdfs/Postdoctoral_position_Statistical_ecology_Identifiability.pdf&#34; target=&#34;_blank&#34;&gt;(details in linked pdf)&lt;/a&gt; on improving dynamic models including interactions within and between species, notably their identifiability properties, by combining different kinds of data.&lt;/p&gt;&#xA;&lt;p&gt;I would be open to a variety of candidate profiles, ranging from somebody with statistical or probability background that would focus on mathematical aspects of identifiability, to somebody more interested in fitting dynamic models to data. Don&amp;rsquo;t hesitate to contact me for an informal chat if you may be interested. &amp;ndash; Frederic&lt;/p&gt;</description>
     </item>
     <item>
       <title>2020 News</title>
-      <link>http://localhost:1313/posts/news-2020/</link>
+      <link>https://statntheorecol.github.io/posts/news-2020/</link>
       <pubDate>Wed, 07 Oct 2020 19:36:48 +0200</pubDate>
-      <guid>http://localhost:1313/posts/news-2020/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2020/</guid>
       <description>&lt;p&gt;Well, this has been a difficult year for everybody and we certainly hope that the end of 2020 has less surprises to offer&amp;hellip; That said, amidst the covid-19 chaos, some pieces of good news:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Alix started a new position at the French committee for the &lt;a href=&#34;https://uicn.fr/&#34;&gt;IUCN&lt;/a&gt; this spring. She&amp;rsquo;s working on the Ecosystem Red List. Congratulations Alix!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Gaël Bardon, who studied with Frederic how stage/age structure can help foster coexistence for his MSc &amp;ldquo;Mathématiques du Vivant&amp;rdquo; (Polytechnique &amp;amp; AgroParisTech), has successfully defended his thesis. Bravo Gaël! Gaël will now move on to a PhD on penguin demographic modelling with Céline Le Bohec. Congratulations again!&lt;/p&gt;</description>
     </item>
     <item>
       <title>2019 News</title>
-      <link>http://localhost:1313/posts/news-2019/</link>
+      <link>https://statntheorecol.github.io/posts/news-2019/</link>
       <pubDate>Sun, 27 Oct 2019 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/news-2019/</guid>
+      <guid>https://statntheorecol.github.io/posts/news-2019/</guid>
       <description>&lt;p&gt;After the holiday break, most of us have good news to share.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Yohan&lt;/strong&gt; just started his tenured lecturer position at &lt;a href=&#34;http://www.pantheonsorbonne.fr/recherche/page-perso/page/?tx_oxcspagepersonnel_pi1%5Bpage%5D=publications&amp;amp;tx_oxcspagepersonnel_pi1%5Buid%5D=ysahraoui&#34;&gt;University Paris I Sorbonne&lt;/a&gt; (UMR 8586 - Prodig). Congratulations Yohan!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Coralie&lt;/strong&gt; has officially started her PhD thesis in phytoplankton dynamics and coexistence in October. She also teaches modeling of dynamic systems and statistics for biology and bioinformatics.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Alix&lt;/strong&gt; extends a bit her current position with us until the end of 2019; she will work with us on the project &lt;a href=&#34;https://itecologyresearch.github.io/projects/biodivercite/&#34;&gt;BiodiverCité&lt;/a&gt; on urban pollinators.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Opportunities</title>
-      <link>http://localhost:1313/posts/join-us/</link>
+      <link>https://statntheorecol.github.io/posts/join-us/</link>
       <pubDate>Fri, 15 Feb 2019 16:30:25 +0100</pubDate>
-      <guid>http://localhost:1313/posts/join-us/</guid>
+      <guid>https://statntheorecol.github.io/posts/join-us/</guid>
       <description>Interested in an internship or postdoc?</description>
     </item>
     <item>
       <title>Back from SFEcologie 2018</title>
-      <link>http://localhost:1313/posts/back-from-sfecologie-2018/</link>
+      <link>https://statntheorecol.github.io/posts/back-from-sfecologie-2018/</link>
       <pubDate>Mon, 29 Oct 2018 09:45:53 +0000</pubDate>
-      <guid>http://localhost:1313/posts/back-from-sfecologie-2018/</guid>
+      <guid>https://statntheorecol.github.io/posts/back-from-sfecologie-2018/</guid>
       <description>&lt;p&gt;We just came back from &lt;a href=&#34;https://sfecologie2018.sciencesconf.org/&#34;&gt;SFEcologie 2018 &lt;/a&gt;&amp;ndash; a great conference in Rennes!&lt;/p&gt;&#xA;&lt;img align=&#34;right&#34; src=&#34;../../images/SFEcologie.jpg&#34; width=&#34;400&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;Alix presented her latest work on seasonal dynamic food webs; Coralie had a poster on diversity maintenance in (also seasonal) theoretical competitive communities, and myself a presentation of our empirical analyses of &lt;a href=&#34;https://itecologyresearch.com/phytoplankton-dynamics/&#34;&gt;phytoplankton community dynamics&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I really enjoyed Teja Tscharnkte&amp;rsquo;s plenary on integrating biodiversity services in agriculture.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Teja Tscharntke explains why pollinator diversity is crucial to pollination at &lt;a href=&#34;https://twitter.com/hashtag/sfe2018?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#sfe2018&lt;/a&gt; &lt;a href=&#34;https://t.co/3zaBY1UEZ6&#34;&gt;pic.twitter.com/3zaBY1UEZ6&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring 2018 news</title>
-      <link>http://localhost:1313/posts/spring-2018-news/</link>
+      <link>https://statntheorecol.github.io/posts/spring-2018-news/</link>
       <pubDate>Tue, 19 Jun 2018 16:39:51 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spring-2018-news/</guid>
+      <guid>https://statntheorecol.github.io/posts/spring-2018-news/</guid>
       <description>&lt;p&gt;Some highlights from the last few months:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Alix&lt;/strong&gt; and &lt;strong&gt;Frederic&lt;/strong&gt; were in Clermont-Ferrand at Irstea &lt;strong&gt;April 10-12&lt;/strong&gt; for the &lt;strong&gt;Temporal Network working group&lt;/strong&gt; meeting of the &lt;strong&gt;&lt;a href=&#34;https://sites.google.com/site/theomodive/&#34;&gt;GDR TheoMoDive.&lt;/a&gt;&lt;/strong&gt; We enjoyed good team spirit and discovered a nice new brew (thanks &lt;a href=&#34;https://sites.google.com/site/franckjabot/&#34;&gt;&lt;strong&gt;Franck Jabot&lt;/strong&gt;&lt;/a&gt; for organizing!).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Frederic&lt;/strong&gt; gave a presentation in the &lt;a href=&#34;http://www.isped.u-bordeaux.fr/actualit%C3%A9s/s%C3%A9minaires/archivess%C3%A9minairesequipebiostatistique.aspx&#34;&gt;Biostatistics seminar&lt;/a&gt; at &lt;a href=&#34;https://www.bordeaux-population-health.center/en/the-centre/&#34;&gt;&lt;strong&gt;ISPED / Bordeaux Population Health centre&lt;/strong&gt;&lt;/a&gt; on the 23rd:  &lt;em&gt;“Inferring interactions between species using time series of population counts and multivariate autoregressive models”&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

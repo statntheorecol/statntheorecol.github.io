@@ -2,150 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Statistical and Theoretical Ecology Group</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>https://statntheorecol.github.io/pages/</link>
     <description>Recent content in Pages on Statistical and Theoretical Ecology Group</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Oct 2024 07:41:44 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://statntheorecol.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>André L. Luza</title>
-      <link>http://localhost:1313/members/andre-luza/</link>
+      <link>https://statntheorecol.github.io/members/andre-luza/</link>
       <pubDate>Tue, 01 Oct 2024 07:41:44 +0000</pubDate>
-      <guid>http://localhost:1313/members/andre-luza/</guid>
+      <guid>https://statntheorecol.github.io/members/andre-luza/</guid>
       <description>&lt;br /&gt;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../images/AndreLuza.jpg&#34; width=&#34;160&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;André is a postdoctoral fellow (INRAE / U Bordeaux) in statistical ecology with Frédéric Barraquand and Didier Alard (Biogeco and &lt;a href=&#34;https://observatoire-fauna.fr/&#34;&gt;FAUNA&lt;/a&gt;), analysing butterfly species distributions in the Nouvelle Aquitaine region and improving models to do so. Currently he investigates parameter estimability and identifiability of site-occupancy models, a class of hierarchical models useful under imperfect and variable detection. He also hopes to develop data integration models. His research is funded by the French Office for Biodiversity (OFB).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Christie Le Coeur</title>
-      <link>http://localhost:1313/members/christie-le-coeur/</link>
+      <link>https://statntheorecol.github.io/members/christie-le-coeur/</link>
       <pubDate>Tue, 01 Oct 2024 07:41:44 +0000</pubDate>
-      <guid>http://localhost:1313/members/christie-le-coeur/</guid>
+      <guid>https://statntheorecol.github.io/members/christie-le-coeur/</guid>
       <description>&lt;br /&gt;&#xD;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../images/christie-le-coeur.jpg&#34; width=&#34;150&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xD;&#xA;&lt;p&gt;I am an MSCA postdoctoral researcher (Univ. of Bordeaux, Institute of Mathematics - IMB) with interests in population dynamics, quantitative ecology, evolutionary demography, and global change biology.&lt;/p&gt;&#xA;&lt;br /&gt;&#xD;&#xA;&lt;p&gt;My MSCA research project, DROVE, aims to develop a statistical and theoretical framework to study the demographic and adaptive responses of wild populations to temporal environmental variability under climate change, and to characterize the demographic mechanisms that enable their persistence. I will apply population models to long-term, individual-based data from great tit (&lt;em&gt;Parus major&lt;/em&gt;) populations. This project is in collaboration with Dr F. Barraquand (IMB, France) and Prof. M. Visser (NIOO-KNAW, Netherlands).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Julien Gibaud</title>
-      <link>http://localhost:1313/members/julien-gibaud/</link>
+      <link>https://statntheorecol.github.io/members/julien-gibaud/</link>
       <pubDate>Tue, 01 Oct 2024 07:41:44 +0000</pubDate>
-      <guid>http://localhost:1313/members/julien-gibaud/</guid>
+      <guid>https://statntheorecol.github.io/members/julien-gibaud/</guid>
       <description>&lt;br /&gt;&#xD;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../images/julien_gibaud.jpg&#34; width=&#34;160&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xD;&#xA;&lt;p&gt;I am a postdoc at the Institut de Mathématiques de Bordeaux (IMB), University of Bordeaux, currently working on the identifiability of the state-space models. In an ecological context, I study the dynamics of the abundance of animal and/or plant species over time.&lt;/p&gt;&#xA;&lt;p&gt;I obtained my PhD from the ``Institut Montpellierain Alexander Grothendieck&amp;rsquo;&amp;rsquo; (IMAG) at the University of Montpellier. I was working on dimension reduction (PLS-type) models and on the interactions between species through factor and mixture models. I followed this position by two years as a teaching fellow in mathematics, in Montpellier as well.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Matthieu Paquet</title>
-      <link>http://localhost:1313/members/matthieu-paquet/</link>
+      <link>https://statntheorecol.github.io/members/matthieu-paquet/</link>
       <pubDate>Wed, 01 Dec 2021 07:41:44 +0000</pubDate>
-      <guid>http://localhost:1313/members/matthieu-paquet/</guid>
+      <guid>https://statntheorecol.github.io/members/matthieu-paquet/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Matthieu just moved &amp;ndash; as of October 2023 &amp;ndash; to &lt;a href=&#34;https://sete-moulis-cnrs.fr/en/&#34;&gt;SETE&lt;/a&gt;, in Moulis, Ariège, for his new (tenured!) position as CNRS Researcher&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;br /&gt;&#xD;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../images/matthieu_paquet.jpg&#34; width=&#34;160&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xD;&#xA;&lt;p&gt;I am interested in behavioral ecology and population dynamics. I aim to better understand and predict population fluctuations by integrating information on interactions within (e.g. parental effects and social behaviour) as well as among species (e.g. competition and predation), notably using data integration (Integrated Population and Community Models).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eivind F. Kleiven</title>
-      <link>http://localhost:1313/members/eivind-kleiven/</link>
+      <link>https://statntheorecol.github.io/members/eivind-kleiven/</link>
       <pubDate>Mon, 21 Oct 2019 11:41:44 +0000</pubDate>
-      <guid>http://localhost:1313/members/eivind-kleiven/</guid>
+      <guid>https://statntheorecol.github.io/members/eivind-kleiven/</guid>
       <description>&lt;img align=&#34;left&#34; src=&#34;../../images/eivind_kleiven.jpg&#34; width=&#34;160&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xD;&#xA;&lt;p&gt;I am interested in population dynamics and interspecific interactions. As wildlife populations and ecological interactions are most often imperfectly observed, I often investigate those topics using statistical models accounting for such imperfect detection. Furthermore, I have a special interest for the tundra food web, where the drivers of ecosystem dynamics are still poorly understood.&lt;/p&gt;&#xA;&lt;br /&gt;&#xD;&#xA;&lt;p&gt;My PhD work was part of the long-term monitoring program &lt;a href=&#34;https://www.coat.no/en/&#34;&gt;Climate-ecological Observatory for Arctic Tundra (COAT)&lt;/a&gt; and had a focus on &lt;a href=&#34;https://www.coat.no/en/Small-rodent&#34;&gt;rodent population cycles&lt;/a&gt; and monitoring of small mammals with camera traps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ANTOPTIC</title>
-      <link>http://localhost:1313/projects/antoptic/</link>
+      <link>https://statntheorecol.github.io/projects/antoptic/</link>
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
-      <guid>http://localhost:1313/projects/antoptic/</guid>
+      <guid>https://statntheorecol.github.io/projects/antoptic/</guid>
       <description>&lt;center&gt;&#xA;  &lt;img src=&#34;../../../images/thomise_tordeuse.jpg&#34; width=&#34;500&#34;  style=&#34;text-align:center&#34; /&gt;&#xA;  &lt;figcaption&gt; _Xysticus_ sp. preying on _Lobesia botrana_ in the field   &#xA;© copyright : Sylvie Richart Cervera [INRAE]&#xA;&lt;/figcaption&gt;&#xA;&lt;/center&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://cote.labex.u-bordeaux.fr/Projet/Volet-Recherche/Projets-soutenus/2017/ANTOPTIC-SAVE-BioGeCo-i5917.html&#34;&gt;ANTOPTIC&lt;/a&gt; (Analysis of trophic network to optimize the delivery of natural pest control services) project, led by SAVE and BioGeCo (INRA), aims to answer main two questions:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What are the effects of farming practices and landscape context on the structure of arthropod food webs in vineyards?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What is the relationship between the structure of arthopod food webs and the levels of pest control ?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Christelle Aluome</title>
-      <link>http://localhost:1313/members/christelle-aluome/</link>
+      <link>https://statntheorecol.github.io/members/christelle-aluome/</link>
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
-      <guid>http://localhost:1313/members/christelle-aluome/</guid>
+      <guid>https://statntheorecol.github.io/members/christelle-aluome/</guid>
       <description>&lt;img align=&#34;left&#34; src=&#34;../../images/caluome2.JPG&#34; width=&#34;250&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;I am a bio-informatics engineer with a particular expertise in data mining and database development.&lt;/p&gt;&#xA;&lt;p&gt;Generally speaking, I am interested in everything linked with data mining: management, exploitation and analysis (especially for big volumes of data). I used to work in vegetable genomics, in diverse projects related to data mining, which includes database design (associated with the development of a website), analysis of sequences from NGS techniques (&lt;em&gt;Populus nigra&lt;/em&gt;, &lt;em&gt;Pisum sativum&lt;/em&gt;), the development of procedure for genome reconstruction (&lt;em&gt;de novo&lt;/em&gt; assembly) in the case of small computing resources, and the development of protocols for the selection of SNP which can be applied to genotyping chip.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frédéric Barraquand</title>
-      <link>http://localhost:1313/members/frederic-barraquand/</link>
+      <link>https://statntheorecol.github.io/members/frederic-barraquand/</link>
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
-      <guid>http://localhost:1313/members/frederic-barraquand/</guid>
+      <guid>https://statntheorecol.github.io/members/frederic-barraquand/</guid>
       <description>&lt;img align=&#34;right&#34; src=&#34;../../images/barraquand2018_photo.jpg&#34; width=&#34;150&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;I am a quantitative ecologist, with interests ranging from population dynamics or coexistence theory to the statistical analysis of time series. Much of my research deals with ecological interactions in a dynamic setting (and sometimes a spatially explicit one).&lt;/p&gt;&#xA;&lt;p&gt;I am a &lt;a href=&#34;https://www.cnrs.fr/en&#34;&gt;CNRS&lt;/a&gt; researcher. These are tenured, full-time research positions and all researchers belong to disciplinary sections. I am affiliated to the main ecology and evolution section (29) as well as the interdisciplinary section on mathematical, computational and physical modelling for the life sciences (51).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Members</title>
-      <link>http://localhost:1313/members/</link>
+      <link>https://statntheorecol.github.io/members/</link>
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
-      <guid>http://localhost:1313/members/</guid>
-      <description>&lt;h1 id=&#34;current&#34;&gt;Current&lt;/h1&gt;&#xA;&lt;h3 id=&#34;frédéric-barraquand--researchermembersfrederic-barraquand&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/frederic-barraquand/&#34;&gt;Frédéric Barraquand | Researcher&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;andré-luís-luza--postdoc-membersandre-luza&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/andre-luza/&#34;&gt;André Luís Luza | Postdoc &lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;christie-le-coeur--postdoc-memberschristie-le-coeur&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/christie-le-coeur/&#34;&gt;Christie Le Coeur | Postdoc &lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;julien-gibaud--postdoc-membersjulien-gibaud&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/julien-gibaud/&#34;&gt;Julien Gibaud | Postdoc &lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h1 id=&#34;past&#34;&gt;Past&lt;/h1&gt;&#xA;&lt;h3 id=&#34;matthieu-paquet--postdoc-2021-2023-membersmatthieu-paquet&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/matthieu-paquet/&#34;&gt;Matthieu Paquet | Postdoc 2021-2023 &lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;coralie-picoche--phd-student-2019-2022memberscoralie-picoche&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/coralie-picoche/&#34;&gt;Coralie Picoche | PhD student 2019-2022&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;eivind-kleiven--phd-student-2018-2022memberseivind-kleiven&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/eivind-kleiven/&#34;&gt;Eivind Kleiven | PhD student 2018-2022&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Supervised jointly w/ R.A. Ims, N.G. Yoccoz, E. Soininen at the &lt;a href=&#34;https://en.uit.no/startsida&#34;&gt;University of Tromsø&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;alix-sauve--post-doc-2016---2019memberspast-membersalix-sauve&#34;&gt;&lt;a href=&#34;http://localhost:1313/members/past-members/alix-sauve/&#34;&gt;Alix Sauve | Post-doc 2016 - 2019&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;interns&#34;&gt;Interns&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mélanie Bertrand&lt;/strong&gt; Impact of urban and periurban environments on butterfly communities (M2 2023 with FB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thomas Besognet&lt;/strong&gt; Inferring predator-prey interactions through time series models (M1 2023 with FB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Guillaume Doyen&lt;/strong&gt; Supersaturated coexistence in community dynamics models (L3 2022 with FB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tewann Beauchard&lt;/strong&gt; Integrated population models identifiability (M2 2022 with FB &amp;amp; MP)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Juliette Conquet&lt;/strong&gt; Urban pollinators in Bordeaux and survey protocol development (L3 2022 with FB &amp;amp; F Revers Biogeco)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Valentine Laurent&lt;/strong&gt; Responses of Odonata to urban pressures (M1 2021 with FB) &amp;ndash; now studying in Göttingen.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gaël Bardon&lt;/strong&gt; How coexistence is affected by stage structure (M2 2020 with FB) &amp;ndash; now PhD student on penguin demographic modelling (Centre Scientifique de Monaco).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sam Boireaud&lt;/strong&gt;  Demographic competition modelling (M2 2019 with FB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bachar Tarraf&lt;/strong&gt; Demographic predator-prey modelling (M2 2018 with FB) &amp;ndash; PhD student at IMB (Institute of Mathematics of Bordeaux), working on biomedical mathematical modelling.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Julian Descoubes&lt;/strong&gt; Urban pollinators in the Bordeaux conurbation (M1 2018 with AS, FB &amp;amp; YS)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;M2: 2nd year MSc, M1: 1st-year MSc, L3: 3rd-year Bachelor or 1st year engineering school.&lt;/p&gt;</description>
+      <guid>https://statntheorecol.github.io/members/</guid>
+      <description>&lt;h1 id=&#34;current&#34;&gt;Current&lt;/h1&gt;&#xA;&lt;h3 id=&#34;frédéric-barraquand--researchermembersfrederic-barraquand&#34;&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/frederic-barraquand/&#34;&gt;Frédéric Barraquand | Researcher&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;andré-luís-luza--postdoc-membersandre-luza&#34;&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/andre-luza/&#34;&gt;André Luís Luza | Postdoc &lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;christie-le-coeur--postdoc-memberschristie-le-coeur&#34;&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/christie-le-coeur/&#34;&gt;Christie Le Coeur | Postdoc &lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;julien-gibaud--postdoc-membersjulien-gibaud&#34;&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/julien-gibaud/&#34;&gt;Julien Gibaud | Postdoc &lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h1 id=&#34;past&#34;&gt;Past&lt;/h1&gt;&#xA;&lt;h3 id=&#34;matthieu-paquet--postdoc-2021-2023-membersmatthieu-paquet&#34;&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/matthieu-paquet/&#34;&gt;Matthieu Paquet | Postdoc 2021-2023 &lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;coralie-picoche--phd-student-2019-2022memberscoralie-picoche&#34;&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/coralie-picoche/&#34;&gt;Coralie Picoche | PhD student 2019-2022&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;eivind-kleiven--phd-student-2018-2022memberseivind-kleiven&#34;&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/eivind-kleiven/&#34;&gt;Eivind Kleiven | PhD student 2018-2022&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Supervised jointly w/ R.A. Ims, N.G. Yoccoz, E. Soininen at the &lt;a href=&#34;https://en.uit.no/startsida&#34;&gt;University of Tromsø&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;alix-sauve--post-doc-2016---2019memberspast-membersalix-sauve&#34;&gt;&lt;a href=&#34;https://statntheorecol.github.io/members/past-members/alix-sauve/&#34;&gt;Alix Sauve | Post-doc 2016 - 2019&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;interns&#34;&gt;Interns&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mélanie Bertrand&lt;/strong&gt; Impact of urban and periurban environments on butterfly communities (M2 2023 with FB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Thomas Besognet&lt;/strong&gt; Inferring predator-prey interactions through time series models (M1 2023 with FB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Guillaume Doyen&lt;/strong&gt; Supersaturated coexistence in community dynamics models (L3 2022 with FB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tewann Beauchard&lt;/strong&gt; Integrated population models identifiability (M2 2022 with FB &amp;amp; MP)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Juliette Conquet&lt;/strong&gt; Urban pollinators in Bordeaux and survey protocol development (L3 2022 with FB &amp;amp; F Revers Biogeco)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Valentine Laurent&lt;/strong&gt; Responses of Odonata to urban pressures (M1 2021 with FB) &amp;ndash; now studying in Göttingen.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gaël Bardon&lt;/strong&gt; How coexistence is affected by stage structure (M2 2020 with FB) &amp;ndash; now PhD student on penguin demographic modelling (Centre Scientifique de Monaco).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sam Boireaud&lt;/strong&gt;  Demographic competition modelling (M2 2019 with FB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bachar Tarraf&lt;/strong&gt; Demographic predator-prey modelling (M2 2018 with FB) &amp;ndash; PhD student at IMB (Institute of Mathematics of Bordeaux), working on biomedical mathematical modelling.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Julian Descoubes&lt;/strong&gt; Urban pollinators in the Bordeaux conurbation (M1 2018 with AS, FB &amp;amp; YS)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;M2: 2nd year MSc, M1: 1st-year MSc, L3: 3rd-year Bachelor or 1st year engineering school.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research Themes</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://statntheorecol.github.io/research/</link>
       <pubDate>Fri, 15 Feb 2019 10:04:13 +0100</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://statntheorecol.github.io/research/</guid>
       <description>&lt;h1 id=&#34;ecology&#34;&gt;Ecology&lt;/h1&gt;&#xA;&lt;p&gt;Our research topics range from behavioural to community ecology. We often keep a strong focus on the population level. Some core questions of interest are&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What are the drivers of population cycles (regular oscillations in population size with &amp;gt;2 orders of magnitude)?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;To what extent do predators regulate their prey?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;How can seemingly similar species manage to coexist?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;These questions can involve either general theoretical modelling or statistical modelling based on long-term data for a given population/community. When we&amp;rsquo;re lucky, a bit of both.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oops</title>
-      <link>http://localhost:1313/blog/</link>
+      <link>https://statntheorecol.github.io/blog/</link>
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
+      <guid>https://statntheorecol.github.io/blog/</guid>
       <description>&lt;p&gt;Sorry, blog is not available yet. The lab-elf is working on it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://statntheorecol.github.io/projects/</link>
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://statntheorecol.github.io/projects/</guid>
       <description>&lt;p&gt;A couple of projects involving multiple team members:&lt;/p&gt;&#xA;&lt;h3 id=&#34;phytoplankton-dynamicsphytoplankton-dynamics&#34;&gt;&lt;a href=&#34;phytoplankton-dynamics/&#34;&gt;Phytoplankton dynamics&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;biodivercitébiodivercite&#34;&gt;&lt;a href=&#34;biodivercite/&#34;&gt;Biodiver&amp;rsquo;Cité&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;antopticantoptic&#34;&gt;&lt;a href=&#34;antoptic/&#34;&gt;ANTOPTIC&lt;/a&gt;&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://statntheorecol.github.io/publications/</link>
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://statntheorecol.github.io/publications/</guid>
       <description>&lt;!--- &#xA;### **Preprints and submitted papers**&#xA;&#xA;&#xA;**Barraquand F.**, Chapuis J.L., Fontaine C. &amp; Porcher E. [Invasion by dandelions in the Kerguelen archipelago explained by autoregressive models](https://doi.org/...)&#xA;&#xA;Archambeau J., Benito Garzon M., de-Miguel M., Changenet A., Bagnoli F., **Barraquand F.**, ... &amp; Gonzalez-Martinez S. C. (2024). [Evaluating genomic offset predictions in a forest tree with high population genetic structure](https://www.biorxiv.org/content/10.1101/2024.05.17.594631v1.abstract). bioRxiv, 2024-05.&#xA;&#xA;**Barraquand F.** [Independence in Integrated Population Models](https://doi.org/...)&#xA;&#xA;---&gt;&#xA;&lt;h3 id=&#34;2024&#34;&gt;&lt;strong&gt;2024&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Picoche C.&lt;/strong&gt;, Young W.R. &amp;amp; &lt;strong&gt;Barraquand F.&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2210.11364&#34;&gt;Local intraspecific aggregation in phytoplankton model communities: spatial scales of occurrence and implications for coexistence&lt;/a&gt;, &lt;em&gt;Journal of Mathematical Biology&lt;/em&gt;, 2024, 88 (6), 1432-1416.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BiodiverCité</title>
-      <link>http://localhost:1313/projects/biodivercite/</link>
+      <link>https://statntheorecol.github.io/projects/biodivercite/</link>
       <pubDate>Wed, 09 May 2018 06:09:15 +0000</pubDate>
-      <guid>http://localhost:1313/projects/biodivercite/</guid>
+      <guid>https://statntheorecol.github.io/projects/biodivercite/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The ‘Biodiver&amp;rsquo;Cité’ project aims at designing guidelines for the preservation of biodiversity in urban landscapes.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The first version of this project (2017-2020) had four major objectives :&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;quantify biodiversity in the urban and suburban landscapes of the city of Bordeaux. This is done in a multi-taxa framework, using major groups of terrestrial and aquatic fauna, based on historical databases as well as new data collection (groups targeted include butterflies, damselflies, dragonflies, amphibians, fishes)&lt;/p&gt;</description>
     </item>
     <item>
       <title>EPIZHONE</title>
-      <link>http://localhost:1313/projects/epizhone/</link>
+      <link>https://statntheorecol.github.io/projects/epizhone/</link>
       <pubDate>Fri, 21 Oct 2016 11:41:50 +0000</pubDate>
-      <guid>http://localhost:1313/projects/epizhone/</guid>
+      <guid>https://statntheorecol.github.io/projects/epizhone/</guid>
       <description>&lt;center&gt;&#xA;  &lt;img src=&#34;../../images/carte_EPIZHONE.png&#34; width=&#34;500&#34;  style=&#34;text-align:center&#34; /&gt;&#xA;  &lt;figcaption&gt; Study zone&#xA;(Water Streams © BD Cartage ; Wetlands © Adour-Garonne Water Agency ; Superficial water masses © SDAGE)&lt;/figcaption&gt;&#xA;&lt;/center&gt;&#xA;&lt;p&gt;In collaboration with Gretha, EPOC and IRSTEA research teams, we aim to characterize the wetland biodiversity of the area of Les Jalles-Blanquefort on the Gironde estuary. We partner with local observatories regarding biological data sets, in an attempt to gather information on both flora and fauna in the area. This pilot study aims at gathering diverse disciplines towards a better characterization of wetland functional responses to anthropogenic pressures. The geographical and historical footprint of these pressures on the study wetlands are characterized by diverse approaches including geochemistry, geography, economics and social sciences. This project is designed as a stepping stone towards larger scale studies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Phytoplankton dynamics</title>
-      <link>http://localhost:1313/projects/phytoplankton-dynamics/</link>
+      <link>https://statntheorecol.github.io/projects/phytoplankton-dynamics/</link>
       <pubDate>Fri, 21 Oct 2016 11:41:47 +0000</pubDate>
-      <guid>http://localhost:1313/projects/phytoplankton-dynamics/</guid>
+      <guid>https://statntheorecol.github.io/projects/phytoplankton-dynamics/</guid>
       <description>&lt;h3 id=&#34;time-series-analysis&#34;&gt;Time series analysis&lt;/h3&gt;&#xA;&lt;p&gt;In collaboration with &lt;a href=&#34;https://wwz.ifremer.fr/laboratoire_arcachon/&#34;&gt;Ifremer Arcachon&lt;/a&gt;, we work on phytoplankton community dynamics, especially diatoms (one of the most abundant classes of plankton, actively involved in biogeochemical cycles).&lt;/p&gt;&#xA;&lt;p&gt;We are particularly interested in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Drivers of blooms&lt;/li&gt;&#xA;&lt;li&gt;Coexistence mechanisms&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our research combines long-term data with statistical and theoretical models.&lt;/p&gt;&#xA;&lt;p&gt;Our analyses of the time series in Arcachon Bay can be found in &lt;a href=&#34;https://www.researchgate.net/publication/328139964_Coastal_phytoplankton_community_dynamics_and_coexistence_driven_by_intragroup_density-dependence_light_and_hydrodynamics&#34;&gt;Barraquand et al. 2018, Oikos&lt;/a&gt;. This work has been extended to the French coastline in &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/617811v1&#34;&gt;Picoche et al. 2019&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coralie Picoche</title>
-      <link>http://localhost:1313/members/coralie-picoche/</link>
+      <link>https://statntheorecol.github.io/members/coralie-picoche/</link>
       <pubDate>Fri, 21 Oct 2016 11:41:44 +0000</pubDate>
-      <guid>http://localhost:1313/members/coralie-picoche/</guid>
+      <guid>https://statntheorecol.github.io/members/coralie-picoche/</guid>
       <description>&lt;img style=&#34;float: right&#34; src=&#34;../../images/Photo_Coralie.png&#34; width=&#34;150&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coralie now works at &lt;a href=&#34;https://vegetalsignals.com/&#34;&gt;Vegetal Signals&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Previous position: PhD student at the Institute of Mathematics of Bordeaux, working on fine-scale modelling of phytoplanktonic community dynamics.&lt;/p&gt;&#xA;&lt;h3 id=&#34;brief-cv&#34;&gt;Brief CV :&lt;/h3&gt;&#xA;&lt;p&gt;2015-2019: Research assistant, in quantitative ecology at the University of Bordeaux, Integrative and Theoretical Ecology group (France)&lt;/p&gt;&#xA;&lt;p&gt;2014 : Research assistant in fishery modelling, at the Institute of Research for Development, Exploited Marine Ecosystems Department (South Africa)&lt;/p&gt;&#xA;&lt;p&gt;2012-2013 : Research assistant in shellfish modelling, at the French Research Institute for Exploitation of the Sea (France).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yohan Sahraoui</title>
-      <link>http://localhost:1313/members/past-members/yohan-sahraoui/</link>
+      <link>https://statntheorecol.github.io/members/past-members/yohan-sahraoui/</link>
       <pubDate>Fri, 21 Oct 2016 11:41:36 +0000</pubDate>
-      <guid>http://localhost:1313/members/past-members/yohan-sahraoui/</guid>
+      <guid>https://statntheorecol.github.io/members/past-members/yohan-sahraoui/</guid>
       <description>&lt;img align=&#34;right&#34; src=&#34;../../../images/yohan_sahraoui2.jpg&#34; width=&#34;150&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;&lt;p&gt;&lt;strong&gt;Yohan is now lecturer at &lt;a href=&#34;https://thema.univ-fcomte.fr/page_personnelle/ysahraoui&#34;&gt;UMR THEMA&lt;/a&gt;, at the University of Franche-Comté.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;!---&#xA;&lt;span style=&#34;color:#FF6347&#34;&gt; Link to his new page(s) &lt;/div&gt;&#xA;--&gt;&#xA;&lt;br /&gt;&#xA;&lt;br /&gt;&#xA;&lt;p&gt;&lt;strong&gt;Publications:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sahraoui Y.&lt;/strong&gt;, De Godoy Leski C., Benot M-L, Revers F., Salles D., van Halder I., Barneix M., &lt;strong&gt;Carassou L.&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.1016/j.landurbplan.2021.104039&#34;&gt;Integrating ecological networks modelling in a participatory approach for assessing impacts of planning scenarios on landscape connectivity&lt;/a&gt;. &lt;em&gt;Landscape and Urban Planning&lt;/em&gt;, 2021, 209, 104039.&lt;/p&gt;&#xA;&lt;p&gt;Foltête J-C., Savary P., Clauzel C., Bourgeois M., Girardet X., &lt;strong&gt;Sahraoui Y.&lt;/strong&gt;, Vuidel G., Garnier S. &lt;a href=&#34;https://doi.org/10.1007/s10980-020-00998-7&#34;&gt;Coupling landscape graph modelling and biological data : a review.&lt;/a&gt; &lt;em&gt;Landscape Ecology&lt;/em&gt;, 2020, 35, 1035-1052.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alix Sauve</title>
-      <link>http://localhost:1313/members/past-members/alix-sauve/</link>
+      <link>https://statntheorecol.github.io/members/past-members/alix-sauve/</link>
       <pubDate>Fri, 21 Oct 2016 11:41:33 +0000</pubDate>
-      <guid>http://localhost:1313/members/past-members/alix-sauve/</guid>
+      <guid>https://statntheorecol.github.io/members/past-members/alix-sauve/</guid>
       <description>&lt;p&gt;&lt;strong&gt;I now work as a project officer for the French Comittee of the &lt;a href=&#34;https://uicn.fr/&#34;&gt;IUCN&lt;/a&gt;, in charge of the Red List of Ecosystems&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;br /&gt;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../../images/alix_sauve.jpeg&#34; width=&#34;150&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;As a community ecologist, I am keen on investigating the structure of ecological communities as well as their dynamics, so as to understand how they respond to disturbances. I study ecological communities as networks of interactions, trying to capture the architecture of such webs, their variabilities and their dynamics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Laure Carassou</title>
-      <link>http://localhost:1313/members/laure-carassou/</link>
+      <link>https://statntheorecol.github.io/members/laure-carassou/</link>
       <pubDate>Fri, 21 Oct 2016 11:41:26 +0000</pubDate>
-      <guid>http://localhost:1313/members/laure-carassou/</guid>
+      <guid>https://statntheorecol.github.io/members/laure-carassou/</guid>
       <description>&lt;img align=&#34;right&#34; src=&#34;../../images/laure_photo.jpg&#34; width=&#34;150&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;My main research interest is aquatic ecology, mainly fish assemblage dynamics. I have been studying fish in a variety of ecosystems (estuaries, coral reefs or other coastal and pelagic marine environments from Europe, south Pacific, northern Gulf of Mexico, west and south Africa, northwest Indian Ocean). I combine diverse methodological approaches to provide a comprehensive understanding of the dynamics of fish populations in the context of climatic and environmental variability (trophic studies based on gut contents, stable isotopes, fatty acids, and/or multivariate statistical approaches). I also have interest in integrative approaches linking human and social sciences and functional ecology, in order to investigate the response of natural communities to anthropogenic influences. The latter approach is illustrated through multiple collaborative projects studying various natural communities ranging from plants to vertebrates, with a particular effort on transition ecosystems such as wetlands, and estuarine communities.&lt;/p&gt;</description>
     </item>
   </channel>
