@@ -9,13 +9,6 @@
     <lastBuildDate>Tue, 01 Oct 2024 07:41:44 +0000</lastBuildDate>
     <atom:link href="https://statntheorecol.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>André L. Luza</title>
-      <link>https://statntheorecol.github.io/members/andre-luza/</link>
-      <pubDate>Tue, 01 Oct 2024 07:41:44 +0000</pubDate>
-      <guid>https://statntheorecol.github.io/members/andre-luza/</guid>
-      <description>&lt;br /&gt;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../images/AndreLuza.jpg&#34; width=&#34;160&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;André is a postdoctoral fellow (INRAE / U Bordeaux) in statistical ecology with Frédéric Barraquand and Didier Alard (Biogeco and &lt;a href=&#34;https://observatoire-fauna.fr/&#34;&gt;FAUNA&lt;/a&gt;), analysing butterfly species distributions in the Nouvelle Aquitaine region and improving models to do so. Currently he investigates parameter estimability and identifiability of site-occupancy models, a class of hierarchical models useful under imperfect and variable detection. He also hopes to develop data integration models. His research is funded by the French Office for Biodiversity (OFB).&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Christie Le Coeur</title>
       <link>https://statntheorecol.github.io/members/christie-le-coeur/</link>
       <pubDate>Tue, 01 Oct 2024 07:41:44 +0000</pubDate>
@@ -27,7 +20,7 @@
       <link>https://statntheorecol.github.io/members/julien-gibaud/</link>
       <pubDate>Tue, 01 Oct 2024 07:41:44 +0000</pubDate>
       <guid>https://statntheorecol.github.io/members/julien-gibaud/</guid>
-      <description>&lt;br /&gt;&#xD;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../images/julien_gibaud.jpg&#34; width=&#34;160&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xD;&#xA;&lt;p&gt;I am a postdoc at the Institut de Mathématiques de Bordeaux (IMB), University of Bordeaux, currently working on the identifiability of the state-space models. In an ecological context, I study the dynamics of the abundance of animal and/or plant species over time.&lt;/p&gt;&#xA;&lt;p&gt;I obtained my PhD from the Institut Montpellierain Alexander Grothendieck (IMAG) at the University of Montpellier. I was working on dimension reduction (PLS-type) models and on the interactions between species through factor and mixture models. I followed this position by two years as a teaching fellow in mathematics, in Montpellier as well.&lt;/p&gt;</description>
+      <description>&lt;br /&gt;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../images/julien_gibaud.jpg&#34; width=&#34;160&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;I am a postdoc at the Institut de Mathématiques de Bordeaux (IMB), University of Bordeaux, currently working on the identifiability of the state-space models. In an ecological context, I study the dynamics of the abundance of animal and/or plant species over time.&lt;/p&gt;&#xA;&lt;p&gt;I obtained my PhD from the Institut Montpellierain Alexander Grothendieck (IMAG) at the University of Montpellier. I was working on dimension reduction (PLS-type) models and on the interactions between species through factor and mixture models. I followed this position by two years as a teaching fellow in mathematics, in Montpellier as well.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Matthieu Paquet</title>
@@ -97,7 +90,7 @@
       <link>https://statntheorecol.github.io/publications/</link>
       <pubDate>Wed, 13 Feb 2019 10:53:33 +0100</pubDate>
       <guid>https://statntheorecol.github.io/publications/</guid>
-      <description>&lt;!--- &#xA;&#xA;**Barraquand F.**, Chapuis J.L., Fontaine C. &amp; Porcher E. [Invasion by dandelions in the Kerguelen archipelago explained by autoregressive models](https://doi.org/...)&#xA;&#xA;---&gt;&#xA;&lt;h3 id=&#34;preprints-and-submitted-papers&#34;&gt;&lt;strong&gt;Preprints and submitted papers&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Paquet M.&lt;/strong&gt;, &lt;strong&gt;Barraquand F.&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2504.06725&#34;&gt;Using theory-driven Integrated Population Models to evaluate competitive outcomes in stage-structured systems&lt;/a&gt;. arXiv, 2504.06725.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Barraquand F.&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2411.01877&#34;&gt;Independence in Integrated Population Models&lt;/a&gt;. arXiv, 2411.01877.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2025&#34;&gt;&lt;strong&gt;2025&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Archambeau J., Benito Garzon M., de-Miguel M., Changenet A., Bagnoli F., &lt;strong&gt;Barraquand F.&lt;/strong&gt;, &amp;hellip; &amp;amp; Gonzalez-Martinez S. C. (2024). &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2024.05.17.594631v1.abstract&#34;&gt;Evaluating genomic offset predictions in a forest tree with high population genetic structure&lt;/a&gt;. &lt;em&gt;American Naturalist, In Press&lt;/em&gt;.&lt;/p&gt;</description>
+      <description>&lt;!--- &#xA;&#xA;**Barraquand F.**, Chapuis J.L., Fontaine C. &amp; Porcher E. [Invasion by dandelions in the Kerguelen archipelago explained by autoregressive models](https://doi.org/...)&#xA;&#xA;---&gt;&#xA;&lt;h3 id=&#34;preprints-and-submitted-papers&#34;&gt;&lt;strong&gt;Preprints and submitted papers&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Luza A. L.&lt;/strong&gt;, Alard D., &lt;strong&gt;Barraquand, F.&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2510.08151&#34;&gt;Evaluating multi-season occupancy models with autocorrelation fitted to heterogeneous datasets&lt;/a&gt;. arXiv, 2510.08151.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Barraquand F.&lt;/strong&gt;, &lt;strong&gt;Gibaud J.&lt;/strong&gt;,  &lt;a href=&#34;https://arxiv.org/abs/2508.08714&#34;&gt;Identifiability of linear stochastic state-space models with application to ecology&lt;/a&gt;. arXiv, 2504.06725.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Paquet M.&lt;/strong&gt;, &lt;strong&gt;Barraquand F.&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2504.06725&#34;&gt;Using theory-driven Integrated Population Models to evaluate competitive outcomes in stage-structured systems&lt;/a&gt;. arXiv, 2504.06725.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BiodiverCité</title>
@@ -147,6 +140,13 @@
       <pubDate>Fri, 21 Oct 2016 11:41:26 +0000</pubDate>
       <guid>https://statntheorecol.github.io/members/laure-carassou/</guid>
       <description>&lt;img align=&#34;right&#34; src=&#34;../../images/laure_photo.jpg&#34; width=&#34;150&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;My main research interest is aquatic ecology, mainly fish assemblage dynamics. I have been studying fish in a variety of ecosystems (estuaries, coral reefs or other coastal and pelagic marine environments from Europe, south Pacific, northern Gulf of Mexico, west and south Africa, northwest Indian Ocean). I combine diverse methodological approaches to provide a comprehensive understanding of the dynamics of fish populations in the context of climatic and environmental variability (trophic studies based on gut contents, stable isotopes, fatty acids, and/or multivariate statistical approaches). I also have interest in integrative approaches linking human and social sciences and functional ecology, in order to investigate the response of natural communities to anthropogenic influences. The latter approach is illustrated through multiple collaborative projects studying various natural communities ranging from plants to vertebrates, with a particular effort on transition ecosystems such as wetlands, and estuarine communities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>André L. Luza</title>
+      <link>https://statntheorecol.github.io/members/andre-luza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://statntheorecol.github.io/members/andre-luza/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;André joined the team &amp;ndash; as of February 2024 &amp;ndash; as a post-doctoral researcher (Universite de Bordeaux\INRAE)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;br /&gt;&#xA;&lt;img align=&#34;left&#34; src=&#34;../../images/AndreLuza.jpg&#34; width=&#34;160&#34;  style=&#34;margin: 10px 20px&#34;/&gt;&#xA;&lt;p&gt;André&amp;rsquo;s research spans a wide range of organisms and subjects within ecology, with a focus on population ecology, community ecology, and macroecology and macroevolution. He also likes to do explicit connections between separate subjects (e.g., ecology-epidemiology, macroecology-macroevolution-paleontology, functional ecology-fisheries-food security), which turns out to be a very interesting, captivating and dynamic way of doing research.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://statntheorecol.github.io/members/andre-luza/</loc>
-    <lastmod>2024-10-01T07:41:44+00:00</lastmod>
+    <loc>https://statntheorecol.github.io/posts/news-2025/</loc>
+    <lastmod>2025-10-07T07:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://statntheorecol.github.io/posts/</loc>
+    <lastmod>2025-10-07T07:00:00+01:00</lastmod>
   </url><url>
     <loc>https://statntheorecol.github.io/members/christie-le-coeur/</loc>
     <lastmod>2024-10-01T07:41:44+00:00</lastmod>
@@ -15,9 +18,6 @@
     <lastmod>2024-10-01T07:41:44+00:00</lastmod>
   </url><url>
     <loc>https://statntheorecol.github.io/posts/news-2024/</loc>
-    <lastmod>2024-10-01T07:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://statntheorecol.github.io/posts/</loc>
     <lastmod>2024-10-01T07:00:00+01:00</lastmod>
   </url><url>
     <loc>https://statntheorecol.github.io/posts/postdoc-statecol-2023/</loc>
@@ -115,6 +115,8 @@
   </url><url>
     <loc>https://statntheorecol.github.io/members/laure-carassou/</loc>
     <lastmod>2016-10-21T11:41:26+00:00</lastmod>
+  </url><url>
+    <loc>https://statntheorecol.github.io/members/andre-luza/</loc>
   </url><url>
     <loc>https://statntheorecol.github.io/categories/</loc>
   </url><url>
